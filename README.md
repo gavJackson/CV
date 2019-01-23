@@ -9,19 +9,12 @@ Group Head of Frontend Development @ Dunstan Thomas
 
 ## Technical skills
 
-JavaScript / CoffeeScript / ES2015
+JavaScript / CoffeeScript / ES2015 / HTML / LESS / CSS
 
-Knockout.js / Jasmine / RequireJS / PathJS / JS-Signals 
+Knockout.js / Jasmine / RequireJS / Vue.js / Electron
 
-Vue.js / Electron (from personal projects)
+Adobe PhotoShop / iMovie / Flash / Flex / AS3
 
-LESS / CSS3
-
-Adobe PhotoShop / iMovie
-
-Flash / Flex / AS3 / MXML
-
-Markdown
 
 ## Remote 
 
