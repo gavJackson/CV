@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8af0b939-3ded-47ad-88e1-6882c358a248" name="Default" comment="">
+    <list default="true" id="8af0b939-3ded-47ad-88e1-6882c358a248" name="Default" comment="Updating CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-long.md" beforeDir="false" afterPath="$PROJECT_DIR$/README-long.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,13 +26,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2646" />
-          <entry key="txt" value="14" />
+          <entry key="md" value="2866" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2646" />
+          <entry key="Markdown" value="2867" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -49,24 +50,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="446">
-                <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+              <first_editor relative-caret-position="441">
+                <caret line="110" lean-forward="true" selection-end-line="117" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README-long.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-3624">
-                <caret line="9" column="117" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
+              <first_editor relative-caret-position="313">
+                <caret line="33" column="539" selection-start-line="33" selection-start-column="539" selection-end-line="33" selection-end-column="539" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,8 +83,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$USER_HOME$/Documents/Personal/_jobs/CV-GavinJackon-old.md" />
-        <option value="$PROJECT_DIR$/README-long.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README-long.md" />
       </list>
     </option>
   </component>
@@ -172,7 +173,7 @@
       <workItem from="1502218615164" duration="1862000" />
       <workItem from="1502383853111" duration="386000" />
       <workItem from="1547541920988" duration="1663000" />
-      <workItem from="1548146359912" duration="3464000" />
+      <workItem from="1548146359912" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="Adding CV">
       <created>1502218653125</created>
@@ -237,24 +238,38 @@
       <option name="project" value="LOCAL" />
       <updated>1548231548356</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updating CV">
+      <created>1548232101239</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548232101239</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating CV">
+      <created>1548232217585</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548232217585</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7375000" />
+    <option name="totallyTimeSpent" value="7892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2538178" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2538178" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.16814159" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32920355" />
+      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
     </layout>
@@ -274,21 +289,21 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Documents/Personal/_jobs/CV-GavinJackon-old.md" />
-    <entry file="file://$PROJECT_DIR$/README-long.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3624">
-            <caret line="9" column="117" selection-start-line="9" selection-start-column="117" selection-end-line="9" selection-end-column="117" />
+          <first_editor relative-caret-position="441">
+            <caret line="110" lean-forward="true" selection-end-line="117" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/README-long.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="446">
-            <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <first_editor relative-caret-position="313">
+            <caret line="33" column="539" selection-start-line="33" selection-start-column="539" selection-end-line="33" selection-end-column="539" />
           </first_editor>
           <second_editor />
         </state>

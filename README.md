@@ -28,7 +28,7 @@ In 2011 I joined Digital Keystone, a small financial software company as a contr
 
 ## Current position
 
-As Group Head of Frontend Engineering for Dunstan Thomas I continue to develop the Adaptive Portal framework on which the majority of our projects are built.  I also mentor and manage a team of 3 fulltime frontend developers on top of supporting the 20-30 full stack developers (a mix of contractors and permanent staff members) working across multiple projects across the company. I regularly innovate, while contributing to multiple projects, taking the long or difficult route of enhancing the core product and our toolset in a generic way to benefit current and future projects.  
+As Group Head of Frontend Engineering for Dunstan Thomas I develop the frontend Adaptive Portal framework on which the majority of our projects are built, I mentor and manage a team of 3 frontend developers while also supporting ~20 full stack developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom coding a solution for a single project.  
 
 
 ## Work experience
