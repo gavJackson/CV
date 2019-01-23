@@ -99,7 +99,7 @@ https://github.com/gavJackson/Cyrus-App
 
 ### L M Barrett
 
-Since moving to Spain, my wife Lorraine has written and published a number of books.  I read and help edit her books and I particularly enjoy designing her covers and website.
+Since moving to Spain, my wife Lorraine has written and published a number of books.  I read and help edit her books and I particularly enjoy designing her covers and website, where I wanted to go as simple as possible in terms of JavaScript and experimented with CSS Grid and `position:sticky`.
 
 http://www.lmbarrett-author.com
 
