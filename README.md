@@ -40,75 +40,57 @@ As Group Head of Frontend Engineering for Dunstan Thomas I continue to develop t
 
 ## Work experience
 
-Oct 2018 - Current (Permanent)
-Group Head of Frontend Engineering @ Dunstan Thomas (Remote)
+Oct 2018 - Current: Group Head of Frontend Engineering @ Dunstan Thomas (Permanent, Remote)
 
-May 2015 - Current (Permanent)
-Head of Frontend development @ Digital Keystone (Remote)
+May 2015 - Oct 2018: Head of Frontend development @ Digital Keystone (Permanent, Remote)
 
-Apr 2012 - May 2015 (Contract)
-Lead Frontend developer @ Digital Keystone (Remote)
+Apr 2012 - May 2015: Lead Frontend developer @ Digital Keystone (Contract, Remote)
 
-Mar 2011 - Apr 2012 (Contract)
-Flex developer @ Digital Keystone (Bath)
+Mar 2011 - Apr 2012: Flex developer @ Digital Keystone (Contract, Bath)
 
-Feb 2011 - Mar 2011 (Contract)
-Flash developer @ GDS International (Bristol)
+Feb 2011 - Mar 2011: Flash developer @ GDS International (Contract, Bristol)
 
-Jul 2010 - Dec 2010 (Contract)
-Flex developer @ Estee Lauder (Remote)
+Jul 2010 - Dec 2010: Flex developer @ Estee Lauder (Contract, Remote)
 
-May 2010 - Jul 2010 (Contract)
-Flash developer @ Oakwood DC (Bristol)
+May 2010 - Jul 2010: Flash developer @ Oakwood DC (Contract, Bristol)
 
-Apr 2010 - May 2010 (Contract)
-Flash developer @ Enable Interactive (Bristol)
+Apr 2010 - May 2010: Flash developer @ Enable Interactive (Contract, Bristol)
 
-Feb 2010 - Apr 2010 (Contract)
-Technical lead @ Oakwood DC (Bristol)
+Feb 2010 - Apr 2010: Technical lead @ Oakwood DC (Contract, Bristol)
 
-Dec 2009 - Jan 2010 (Contract)
-Flash developer @ Enable Interactive (Bristol)
+Dec 2009 - Jan 2010: Flash developer @ Enable Interactive (Contract, Bristol)
 
-Aug 2009 - Oct 2009 (Contract)
-Flash developer @ Bay Leino (Remote)
+Aug 2009 - Oct 2009: Flash developer @ Bay Leino (Contract, Remote)
 
-Feb 2009 - Aug 2009 (Contract)
-Technical lead @ Oakwood DC (Bristol)
+Feb 2009 - Aug 2009: Technical lead @ Oakwood DC (Contract, Bristol)
 
-Feb 2007 - Feb 2009 (Permanent)
-Senior Flash developer @ Oakwood DC (Bristol)
+Feb 2007 - Feb 2009: Senior Flash developer @ Oakwood DC (Permanent, Bristol)
 
-Jan 2006 - May 2006 (Contract)
-Web developer @ Publicis Mojo (Melbourne)
+Jan 2006 - May 2006: Web developer @ Publicis Mojo (Contract, Melbourne)
 
 **Backpacking...**
 
-Apr 2003 - Apr 2005 (Permanent)
-Web developer @ Sol-Tec (Reading)
+Apr 2003 - Apr 2005: Web developer @ Sol-Tec (Permanent, Reading)
 
-Jul 2002 - Feb 2003 (Permanent)
-Web developer @ Strudwick & Young (Reading)
+Jul 2002 - Feb 2003: Web developer @ Strudwick & Young (Permanent, Reading)
 
 **Graduated University...**
 
-Sep 2001 - May 2002 (Contract)
-Web designer @ ACS (Remote)
+Sep 2001 - May 2002: Web designer @ ACS (Contract, Remote)
 
-May 2000 - Jul 2001 (Permanent)
-Web designer @ ACS (High Wycombe)
+May 2000 - Jul 2001: Web designer @ ACS (Permanent, High Wycombe)
 
 ## Education
 
-### 1998 - 2002: De Montfort Univesity Leicester
+**1998 - 2002: De Montfort Univesity Leicester**
 
 Multimedia Computing: 1st BSc (Hons) - Top of my class
 
-### 1997-1998: Amersham & Wycombe College
+**1997-1998: Amersham & Wycombe College**
 
 A-levels: Computing (A), Maths (D), Physics (D)
 
-### 1992-1997: Holmer Green Upper School
+**1992-1997: Holmer Green Upper School**
 
 GCSE: 9 x grade C or above - Second in my year
 
@@ -135,6 +117,8 @@ PooEggCrack is a YouTube channel for my kids.  I had a lot of fun coming up with
 https://www.youtube.com/channel/UClq_cJKz5-Lf4mZf-62V09Q/featured
 
 ## Personal life
+
+I grew up in Hazlemere, near High Wycombe in Buckingshire, my Dad is English and my Mum is from Thailand. 
 
 I met my wife Lorraine while travelling in Thailand, we have two kids, Daisy and Henry and we live in a small sea-side town called Javea in Spain, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors all year round, we go skiing in winters and the rest of the time we are on or near the beach and exploring Spain.  
 
