@@ -7,7 +7,7 @@ Group Head of Frontend Development @ Dunstan Thomas
  
 ## TL;DR
 
-> I am a Frontend Developer with over 15 years of professional experience. I love writing code and designing solutions while keeping in mind business objectives and the overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  In the last few years, I have been building financial single page applications, priding myself on delivering modern, responsive, accessible applications with a focus on UX.  I am extremely focused and productive.
+**I am a Frontend Developer with over 15 years of professional experience. I love writing code and designing solutions while keeping in mind business objectives and the overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  In the last few years, I have been building financial single page applications, priding myself on delivering modern, responsive, accessible applications with a focus on UX.  I am extremely focused and productive.**
 
 
 ## Technical skills
