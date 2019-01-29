@@ -84,7 +84,7 @@ A-levels: Computing (A), Maths (D), Physics (D)
 
 **1992-1997: Holmer Green Upper School**
 
-GCSE: 9 x grade C or above - second in my year
+GCSE: 9 x grade C or above
 
 ## Personal projects
 
