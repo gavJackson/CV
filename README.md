@@ -4,7 +4,7 @@ Group Head of Frontend Development @ Dunstan Thomas
  
 ## TL;DR
 
-**I am an extremely focused and productive Frontend Developer with over 15 years of professional experience. I love writing code and designing solutions while keeping in mind business objectives and the overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  In the last few years, I have been building financial single page applications, built upon my own JavaScript framework; which has and is being used to deliver large scale business critical enterprise projects to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on UX.**
+**I am an extremely focused and productive Frontend Developer with over 15 years of professional experience. I love writing code and designing solutions while keeping in mind business objectives and the overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  In the last few years, I have been building financial single page applications, built upon my own JavaScript framework; which has and is still being used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on UX.**
 
 
 ## Technical skills
@@ -13,7 +13,7 @@ JavaScript / CoffeeScript / HTML / LESS / CSS
 
 Knockout.js / Jasmine / RequireJS / Vue.js / Electron
 
-Adobe PhotoShop / iMovie / Flash / Flex
+PhotoShop / iMovie / Flash / Flex
 
 
 ## Remote 
@@ -22,13 +22,13 @@ I have been working remotely since 2012, attending a few meetings a year around 
 
 ## Career Summary
 
-After University, I had a couple of ASP and SQL jobs but my frontend career really started in Melbourne, Australia in 2006, working for an advertising agency and then returning home to the UK and becoming a Flash Developer at an Ad agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few and I am proud to say that my work was seen by millions of users across the world.
+After University, I had a couple of ASP and SQL jobs but my Frontend career really started in Melbourne, Australia in 2006, working for an advertising agency and then returning home to the UK and becoming a Flash Developer at an Ad agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few and I am proud to say that my work was seen by millions of users across the world.
   
-In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, I built the underlying framework and frontend to an award winning product called Adaptive Portal. In 2015 I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger, where I am now the Group Head of Frontend Engineering at Dunstan Thomas.
+In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, we moved away from Flex and began delivering JavaScript Single Page Applications. I built the underlying framework and Frontend to an award winning product called Adaptive Portal. In 2015 I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger, where I am now the Group Head of Frontend Engineering at Dunstan Thomas.
 
 ## Current position
 
-As Group Head of Frontend Engineering for Dunstan Thomas I continue to develop the frontend Adaptive Portal framework on which the majority of our projects are built, I mentor and manage a team of 3 frontend developers while also supporting ~20 full stack developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.  
+As Group Head of Frontend Engineering for Dunstan Thomas I continue to develop the Frontend Adaptive Portal framework on which the majority of our projects are built, I mentor and manage a team of 3 Frontend developers while also supporting ~20 full stack developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.  
 
 
 ## Work experience
