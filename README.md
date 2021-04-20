@@ -1,34 +1,35 @@
 # Gavin Jackson
 
 Group Head of Frontend Development @ Dunstan Thomas
- 
-## TL;DR
 
-**I am an extremely focused and productive Frontend Developer with over 15 years of professional experience. I love writing code and designing solutions while keeping in mind business objectives and the overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  In the last few years, I have been building financial single page applications, built upon my own JavaScript framework; which has and is still being used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on UX.**
+**TL;DR: I am an extremely focused and productive, hands on Head of Frontend Development with nearly 20 years of professional experience. I love writing code and designing solutions while keeping in mind the business strategy and overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  For the last decade, I have been building financial single page applications, built upon my own JavaScript MVCS framework; which is used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on user experience.**
 
 
 ## Technical skills
 
 JavaScript / CoffeeScript / HTML / LESS / CSS
 
-Knockout.js / Jasmine / RequireJS / Vue.js / Electron
+Knockout.js / Cypress.io / RequireJS / Vue.js / Svelte / Electron
 
 PhotoShop / iMovie / Flash / Flex
 
 
-## Remote 
+## Remote
 
-I have been working remotely since 2012, attending a few meetings a year around the UK but otherwise working entirely from my home, first in Bristol and now in Spain.  I have no problem with maintaining productivity and have been a disciplined self starter since University, demonstrated by graduating top of my class in 2002. 
+I have been working remotely since 2012, attending a few meetings a year but otherwise working entirely from home, first in Bristol, then from Spain and now from Bath.  I have no problem with maintaining productivity and have been a disciplined self starter since University, demonstrated by graduating top of my class in 2002.
+
 
 ## Career Summary
 
-After University, I had a couple of ASP and SQL jobs but my Frontend career really started in Melbourne, Australia in 2006, working for an advertising agency and then returning home to the UK and becoming a Flash Developer at an Ad agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few and I am proud to say that my work was seen by millions of users across the world.
-  
-In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, we moved away from Flex and began delivering JavaScript Single Page Applications. I built the underlying framework and Frontend to an award winning product called Adaptive Portal. In 2015 I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger, where I am now the Group Head of Frontend Engineering at Dunstan Thomas.
+After University, I had a couple of ASP and SQL jobs, but my Frontend career really started in Melbourne, Australia in 2006 while backpacking, working for an advertising agency and then returning home to the UK and becoming a Senior Flash Developer at a creative agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few, and I am proud to say that my work has been seen by millions of users across the world.
+
+In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, I built the underlying framework and frontend to an award-winning product called Adaptive Portal. In 2015, I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger to Dunstan Thomas, where I stayed on as the Group Head of Frontend Engineering. The frontend framework *Adaptive Portal*, that I built for Digital Keystone was renamed to IntegroCX, and is now the largest product in the suite offered by Dunstan Thomas and what we use to deliver most of our client projects.
+
+In 2020, as a shareholder of Dunstan Thomas, I was once again involved in a major acquisition; and Dunstan Thomas was acquired by Curtis Banks, in another multi-million pound deal, roughly 10 times larger than the Digital Keystone deal.  I continued on as the Group Head of Frontend Engineering.
 
 ## Current position
 
-As Group Head of Frontend Engineering for Dunstan Thomas I continue to develop the Frontend Adaptive Portal framework on which the majority of our projects are built, I mentor and manage a team of 3 Frontend developers while also supporting ~20 full stack developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.  
+As Group Head of Frontend Engineering I still develop and add features to the frontend Integro CX framework on which the majority of our projects are built.  I also mentor and manage a team of 6 Frontend developers and support ~20 backend developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.
 
 
 ## Work experience
@@ -75,7 +76,7 @@ May 2000 - Jul 2001: Web designer @ ACS (Permanent, High Wycombe)
 
 ## Education
 
-**1998 - 2002: De Montfort Univesity Leicester**
+**1998 - 2002: De Montfort University Leicester**
 
 Multimedia Computing: 1st BSc (Hons) - top of my class
 
@@ -92,23 +93,24 @@ GCSE: 9 x grade C or above
 Outside of work, I like to dabble in new technology and have a few side projects on the go:
 
 ### CYRUS
- 
-Cyrus is a Windows and OSX desktop app built using Electron and VueJS.  It's a productivity tool and provides quick and easy access to snippets and templates which you can paste into any application.  
 
-https://github.com/gavJackson/Cyrus-App
+Cyrus is a Windows and OSX desktop app built using Electron and VueJS.  It's a productivity tool and provides quick and easy access to snippets and templates which you can paste into any application.
+
+https://www.youtube.com/watch?v=Mf8PFIL-4cQ
+
 
 ### L M Barrett
 
-Since moving to Spain, my wife Lorraine has written and published a number of books.  I read and help edit her books and I particularly enjoy designing her covers and website, where I wanted to go as simple as possible in terms of JavaScript and experimented with CSS Grid and `position:sticky`.
+When we moved to Spain, my wife Lorraine wrote and self-published a number of books.  I proof-read and help edit her books, design her book covers and built her website.
 
 http://www.lmbarrett-author.com
 
 ### PooEggCrack
 
-PooEggCrack is a YouTube channel for my kids.  I had a lot of fun coming up with the branding (the name was Daisy's username for Roblox)  and editing their videos, filling them with Memes, sound effects and just general nonsense.
+PooEggCrack is a YouTube channel for my kids.  I had a lot of fun coming up with the branding (the name was Daisy's username for Roblox)  and editing their videos, filling them with Memes, sound effects and just general nonsense.  My daughter took over the channel after my first 5 videos.
 
-https://www.youtube.com/channel/UClq_cJKz5-Lf4mZf-62V09Q/featured
+https://www.youtube.com/watch?v=_SLYS72kOnE
 
 ## Personal life
 
-I met my wife Lorraine while travelling in Thailand.  We have two kids, Daisy and Henry and live in a small sea-side town called Javea in Spain, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors all year round.  In winters we ski the rest of the time we are on or near the beach and exploring Spain.  
+I met my wife Lorraine while travelling in Thailand.  We have two kids, Daisy and Henry and live in Bath, having recently returned from living in Spain for 3 years, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors as much as possible.  In winters (pre-covid) we ski, and I have recently taken up wild swimming and I am training for my first Triathlon.
