@@ -5,24 +5,26 @@
 
 Group Head of Frontend Development @ Dunstan Thomas
 
-[gav_jackson@yahoo.com](gav_jackson@yahoo.com) | 07587 426936
-
-**I am an extremely focused and productive, hands on Head of Frontend Development with nearly 20 years of professional experience. I love writing code and designing solutions and APIs while keeping in mind the business strategy and overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  For the last decade, I have been building financial single page applications, built upon my own JavaScript MVCS framework; which is used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on user experience.**
+**TL;DR: I am an extremely focused and productive, hands on Head of Frontend Development with nearly 20 years of professional experience. I love writing code and designing solutions while keeping in mind the business strategy and overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  For the last decade, I have been building financial single page applications, built upon my own JavaScript MVCS framework; which is used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on user experience.**
 
 
 ## Technical skills
 
 JavaScript / CoffeeScript / HTML / LESS / CSS
 
-Knockout / Cypress.io / Vue / Svelte / Electron
+Knockout.js / Cypress.io / RequireJS / Vue.js / Svelte / Electron
 
 PhotoShop / iMovie / Flash / Flex
 
 
+## Remote
+
+I have been working remotely since 2012, attending a few meetings a year but otherwise working entirely from home, first in Bristol, then from Spain and now from Bath.  I have no problem with maintaining productivity and have been a disciplined self starter since University, demonstrated by graduating top of my class in 2002.
+
 
 ## Career Summary
 
-After University in 2002, I had a couple of ASP and SQL jobs, but my Frontend career really started in Melbourne, Australia in 2006 while backpacking, working for an advertising agency and then returning home to the UK and becoming a Senior Flash Developer at a creative agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few, and I am proud to say that my work has been seen by millions of users across the world.
+After University, I had a couple of ASP and SQL jobs, but my Frontend career really started in Melbourne, Australia in 2006 while backpacking, working for an advertising agency and then returning home to the UK and becoming a Senior Flash Developer at a creative agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few, and I am proud to say that my work has been seen by millions of users across the world.
 
 In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, I built the underlying framework and frontend to an award-winning product called Adaptive Portal. In 2015, I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger to Dunstan Thomas, where I stayed on as the Group Head of Frontend Engineering. The frontend framework *Adaptive Portal*, that I built for Digital Keystone was renamed to IntegroCX, and is now the largest product in the suite offered by Dunstan Thomas and what we use to deliver most of our client projects.
 
@@ -30,9 +32,9 @@ In 2020, as a shareholder of Dunstan Thomas, I was once again involved in a majo
 
 ## Current position
 
-As Group Head of Frontend Engineering I still develop and add features to the frontend Integro CX framework on which the majority of our projects are built.  I also mentor and manage a team of 6 Frontend developers with the goal of building a community with resilience, as well as supporting ~20 backend developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.
+As Group Head of Frontend Engineering I still develop and add features to the frontend Integro CX framework on which the majority of our projects are built.  I also mentor and manage a team of 6 Frontend developers and support ~20 backend developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.
 
-I hold regular team meetings providing a forum for all team members to discuss their projects, pain points, big wins and anything to share, and to demonstrate features I add to the framework.  I use OKRs (Objectives Key Result) and Hackathons to encourage innovation and ring-fence developers time.  I have recently begun producing a bi-monthly PDF, *The Frontend Bulletin*, which I share with the wider company so everyone is informed what the Frontend team are working on and what new features we are adding to IntegroCX.
+I manage the Frontend team, with the goal of building a community with resilience.  I hold regular team meetings providing a forum for all team members to discuss their projects, pain points, big wins and anything to share, and to demonstrate features I add to the framework.  I use OKRs (Objectives Key Result) and Hackathons to encourage innovation and ring-fence developers time.  I have recently begun producing a bi-monthly PDF, *The Frontend Bulletin*, which I share with the wider company so everyone is informed what the Frontend team are working on and what new features we are adding to IntegroCX.
 
 I work on projects for companies like CanadaLife and Aegon, big players in the UK's pension market.  Both projects were similar in that we replaced either their entire Wealth Management Platform or a large proportion of it.  Each sprint I planned the frontend work, pair programmed and guided the dev team through their frontend (and sometimes backend) tasks while also liaising with the client, ensuring that their requirements are in a dev ready state for the next sprint.
 
@@ -40,17 +42,15 @@ I am highly motivated and self-driven, working on internal side projects in-betw
 
 For example, a recent side project I implemented over Xmas and into 2021, while our client offices were closed; was to completely rewrite all the CSS from the previous 6 years.  Providing a new layered skinning architecture written with performance and overriding in mind, as well as modernising the look of all new projects via a white labelling approach, built upon Neomorphism principles, which has now been adopted elsewhere in the organisation and was even the subject of a press release. https://www.dthomas.co.uk/content/fs/news/113_Neumorphism.shtml
 
-I am also part of the sales pipeline and heavily involved in sales pitches and growing the company.  I regularly present to clients and am comfortable in delivering presentations at the appropriate technical level.  I have several slide decks prepared for prospects that I can customise just ahead of delivery, and I usually take the lead for the technical pitches. For a hackathon in 2021, I produced a sales/marketing video introducing ICX https://youtu.be/fvzzL1GTetI
+I am also part of the sales pipeline and heavily involved in sales pitches and growing the company.  I regularly present to clients and am comfortable in delivering presentations at the appropriate technical level.  I have several slide decks prepared for prospects that I can customise just ahead of delivery, and I usually take the lead for the technical pitches. 
 
 ### About Integro CX
 
-Integro CX was renamed from The Adaptive Portal, which I began building while I was working for Digital Keystone.  It is a low code framework for delivering dashboard and form based single page applications, low code (on the frontend) because when I was the lone frontend developer supporting multiple projects for some years at Digital Keystone, but still valid at Dunstan Thomas where we have a smaller frontend team compared to the backend. This means the frontend is entirely configurable from JSON templates which describe dashboard layouts and what is on each form and is capable of fine control over client side validation and dynamic rules. 
+Integro CX was renamed from The Adaptive Portal, which I began building while I was working for Digital Keystone.  It is a framework for delivering dashboard and form based single page applications.  It is a low code frontend framework, a useful approach when I was the lone frontend developer supporting multiple projects for some years at Digital Keystone, but still valid at Dunstan Thomas where we have a smaller frontend team compared to the backend. This means the frontend is entirely configurable from JSON templates which describe dashboard layouts and what is on each form and is capable of fine control over client side validation and dynamic rules. 
 
 Making such a configurable frontend requires a robust and flexible architecture, which I also built myself; an MVCS framework based on Knockout.js, but adding all the necessary parts such as Routing, Dependency Management/Injection, PubSub via Signals for events and messaging, and the Command Pattern for sequencing.  This enables entire systems to be prototyped and built through configuration and a bit of styling, rather than custom coding, which is reserved for new features and even those are assessed to see if they can be delivered via new configurations or features in the core framework to benefit future projects.
 
 A case study I use in sales calls to demonstrate the power of ICX, is that I was able to build a working 12 screen prototype, based on wireframes, in less than a week.  This included custom branding, responsive, a11y compliant screens, a dashboard and multi-screen workflow, with interactive graphs and sliders and full test coverage.  Production ready, just needing a backend.
-
-As primary architect of the IntegroCX frontend, I design and maintain an API I built from the ground up, my goal is to make using ICX as effortless as possible for the Frontend development teams that consume it.  I believe in making it so "it just works" as the developer expects.  Over the years I have learnt and refined how I do this, good API design is key, but backwards compatibility means compromises also have to be made and this is where documentation and testing really helps. So I wrote a markdown file consuming documentation system that automatically generates live interactive examples from manifest files used to describe the various components of ICX and a hash url, screenshot comparison based battery of end-to-end tests that can be invoked using a command line interface tool.
 
 
 ## Annual highlights
@@ -86,11 +86,6 @@ As primary architect of the IntegroCX frontend, I design and maintain an API I b
 **2006**: Worked in Australia for Publicis Mojo as a Web Developer for clients such as **Nike**, **Hertz**, **HP** and the **Victorian Government**.  A highlight was working on the **Nike Football** website for World Cup 2006 and promotions for Australia's big game against Brazil where they dared to believe that history would not repeat itself (but, it did!).
 
 **2002 - 2005**: Graduated top of my class from De Montfort University in Leicester in 2002 with a first class degree with honours in Multimedia Computing and was also **awarded the best student prize for finishing top of my class**.  My first few years out of university I worked as a Web Developer in Reading writing ASP and ASP.NET web and windows applications and services before travelling for 20 months.
-
-
-## Remote
-
-I have been working remotely since 2012, attending a few meetings a year but otherwise working entirely from home, first in Bristol, then from Spain and now from Bath.  I have no problem with maintaining productivity and have been a disciplined self starter since University, demonstrated by graduating top of my class in 2002.
 
 
 ## Work experience
@@ -151,15 +146,13 @@ A-levels: Computing (A), Maths (D), Physics (D)
 
 GCSE: 9 x grade C or above
 
-
-
 ## Personal projects
 
 Outside of work, I like to dabble in new technology and have a few side projects on the go:
 
 ### CYRUS
 
-Cyrus is a Windows and OSX desktop app built using Electron and Vue.  It's a productivity tool and provides quick and easy access to snippets and templates which you can paste into any application.
+Cyrus is a Windows and OSX desktop app built using Electron and VueJS.  It's a productivity tool and provides quick and easy access to snippets and templates which you can paste into any application.
 
 https://www.youtube.com/watch?v=Mf8PFIL-4cQ
 
@@ -178,8 +171,4 @@ https://www.youtube.com/watch?v=_SLYS72kOnE
 
 ## Personal life
 
-I met my wife Lorraine while travelling in Thailand.  We have two kids, Daisy and Henry and live in Bath, having recently returned from living in Spain for 3 years, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors as much as possible.  In winters (pre-covid) we ski, and I have recently taken up wild swimming and completed my first Triathlon.
-
-## What I am looking for
-
-I want to take my career to the next level, becoming a partner once again and using my considerable technical skills to help grow a company and enable my fellow partners to reach their exit strategy.
+I met my wife Lorraine while travelling in Thailand.  We have two kids, Daisy and Henry and live in Bath, having recently returned from living in Spain for 3 years, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors as much as possible.  In winters (pre-covid) we ski, and I have recently taken up wild swimming and I am training for my first Triathlon.
