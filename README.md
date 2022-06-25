@@ -1,77 +1,103 @@
-# Gavin Jackson
+# Gavin Jackson, Bath, UK
 
-Group Head of Frontend Development @ Dunstan Thomas
+- **Group Head of Frontend Engineering, Dunstan Thomas**
+- Married with 2 children
+- Portfolio: https://www.digital-mojo.com/
 
-**I am an extremely focused and productive, hands on Head of Frontend Development with nearly 20 years of professional experience. I love writing code and designing solutions and APIs while keeping in mind the business strategy and overall picture.  I have an eye for design and animation from the early part of my career creating customer facing Flash sites for some of the biggest brands in the world.  For the last decade, I have been building financial single page applications, built upon my own JavaScript MVCS framework; which is used to deliver large scale business critical enterprise applications to some of the largest companies in the financial world. I pride myself on delivering modern, responsive, accessible applications with a focus on user experience.**
-
-
-## Technical skills
-
-JavaScript / CoffeeScript / HTML / LESS / CSS
-
-Knockout / Cypress.io / Vue / Svelte / Electron
-
-PhotoShop / iMovie / Flash / Flex
+## Profile
 
 
+- I am a Frontend specialist with over 20 years of professional experience.  
+- I have been involved as a minor shareholder in two multi-million pound company exits, both centred around the products I built.  
+- Most of my career has been spent in senior, tech lead or head positions where I lead the frontend development of multiple cross-functional, distributed agile teams.  
+- I have spent the last 10 years working in FinTech where I have written my own frontend framework which has been used to deliver multiple enterprise level wealth management platforms.  
+- Before that I spent 6 years working in Advertising creating web experiences for some of the biggest brands in the world.  
+- I believe I have been successful in my career because I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
 
-## Career Summary
-
-After University in 2002, I had a couple of ASP and SQL jobs, but my Frontend career really started in Melbourne, Australia in 2006 while backpacking, working for an advertising agency and then returning home to the UK and becoming a Senior Flash Developer at a creative agency in Bristol. After that, I contracted around Bristol and the South West.  In that time I worked on projects for big clients and household names such as Nike, Mattel, Hertz, Estee Lauder, BP, Intel, Barbie and HotWheels to name a few, and I am proud to say that my work has been seen by millions of users across the world.
-
-In 2011, I joined Digital Keystone, a small financial software company as a contract Flex Developer.  At the time Digital Keystone had a single client and no product, but over the next three years, while helping grow the company, I built the underlying framework and frontend to an award-winning product called Adaptive Portal. In 2015, I was offered a partnership and became Head of Frontend Development and In 2016, we sold Digital Keystone in a multi-million pound merger to Dunstan Thomas, where I stayed on as the Group Head of Frontend Engineering. The frontend framework *Adaptive Portal*, that I built for Digital Keystone was renamed to IntegroCX, and is now the largest product in the suite offered by Dunstan Thomas and what we use to deliver most of our client projects.
-
-In 2020, as a shareholder of Dunstan Thomas, I was once again involved in a major acquisition; and Dunstan Thomas was acquired by Curtis Banks, in another multi-million pound deal, roughly 10 times larger than the Digital Keystone deal.  I continued on as the Group Head of Frontend Engineering.
-
-For a hackathon in 2021, I produced a sales/marketing video introducing ICX https://youtu.be/fvzzL1GTetI
-
-## Current position
-
-As Group Head of Frontend Engineering I still develop and add features to the frontend Integro CX framework on which the majority of our projects are built.  I also mentor and manage a team of 6 Frontend developers with the goal of building a community with resilience, as well as supporting ~20 backend developers working across various projects across the organisation. I encourage innovation and lead by example, taking the longer more complex route of enhancing the core product in a generic way to benefit current and future projects rather than custom-coding a solution for a single project.
-
-As primary architect of the IntegroCX frontend, I design and maintain an API I built from the ground up, my goal is to make using ICX as effortless as possible for the Frontend development teams that consume it.  I believe in making it so "it just works" as the developer expects.  Over the years I have learnt and refined how I do this, good API design is key, but backwards compatibility means compromises also have to be made and this is where documentation and testing really helps. So I wrote a markdown file consuming documentation system that automatically generates live interactive examples from manifest files used to describe the various components of ICX and a hash url, screenshot comparison based battery of end-to-end tests that can be invoked using a command line interface tool.
 
 ## Work experience
 
-Oct 2018 - Current: Group Head of Frontend Engineering @ Dunstan Thomas (Permanent, Remote)
 
-May 2015 - Oct 2018: Head of Frontend development @ Digital Keystone (Permanent, Remote)
+### FinTech
 
-Apr 2012 - May 2015: Lead Frontend developer @ Digital Keystone (Contract, Remote)
 
-Mar 2011 - Apr 2012: Flex developer @ Digital Keystone (Contract, Bath)
+**Dunstan Thomas** *(1% shareholder in second company exit)*
 
-Feb 2011 - Mar 2011: Flash developer @ GDS International (Contract, Bristol)
+**Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
-Jul 2010 - Dec 2010: Flex developer @ Estee Lauder (Contract, Remote)
+This is my current position where I develop and add features to my frontend framework (known as Integro CX) and build tools to improve the developer experience.  I also hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
-May 2010 - Jul 2010: Flash developer @ Oakwood DC (Contract, Bristol)
+I became a shareholder in Dunstan Thomas, holding a 1% stake and in 2020 we sold Dunstan Thomas to Curtis Banks, in my second multi-million pound deal. I continued on as the Group Head of Frontend Engineering.
 
-Apr 2010 - May 2010: Flash developer @ Enable Interactive (Contract, Bristol)
+**Digital Keystone**
+*(5% shareholder in first company exit)*
 
-Feb 2010 - Apr 2010: Technical lead @ Oakwood DC (Contract, Bristol)
 
-Dec 2009 - Jan 2010: Flash developer @ Enable Interactive (Contract, Bristol)
+**Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
 
-Aug 2009 - Oct 2009: Flash developer @ Bay Leino (Contract, Remote)
+In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development in order to make Digital Keystone a more realistic proposition to sell in alignment with the founder's exit strategy, which we achieved several years ahead of our target, selling Digital Keystone to Dunstan Thomas in a multi-million pound deal.
 
-Feb 2009 - Aug 2009: Technical lead @ Oakwood DC (Contract, Bristol)
+**Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
 
-Feb 2007 - Feb 2009: Senior Flash developer @ Oakwood DC (Permanent, Bristol)
+In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I designed and built the frontend of the multi award-winning frontend framework, known as Adaptive Portal (later renamed to Integro CX at Dunstan Thomas).  We used my frontend framework to deliver enterprise level client projects, mainly in financial services. Adaptive Portal also won the Platforum 'Best in show' award.
 
-Jan 2006 - May 2006: Web developer @ Publicis Mojo (Contract, Melbourne)
+**Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
+
+I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
+
+### Advertising
+
+**Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
+
+This was a short term contract to build a Flex video player where I was brought in to save the project, I rewrote the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today.
+
+**Flex developer, Estee Lauder**, Contract, Remote, Jul 2010 - Dec 2010
+
+An ex-colleague was running a project that ran into problems and I was brought in to save the project where we built a Flex website for the Jo Malone brand of Estee Lauder. One of my favourite parts of the build was creating a fruit machine style gift box generator where Jo Malone products were seemingly picked at random to build a gift box at a certain value, I had a lot of fun with blurred spinning animations. 
+
+**Technical lead, Oakwood DC**, Contract, Bristol
+
+- May 2010 - Jul 2010
+- Feb 2010 - Apr 2010
+- Feb 2009 - Aug 2009
+
+I left Oakwood DC as a permanent employee and continued on as a contractor where I headed up a team of 8 Flash Developers to deliver a £300k project for the electronics division of Mattel US.  We delivered the project on time and on budget.
+
+I re-joined Oakwood DC several times for short term contracts to help out on various Flash projects.
+
+**Flash developer, Enable Interactive**, Contract, Bristol
+
+- Apr 2010 - May 2010
+- Dec 2009 - Jan 2010
+
+At Enable interactive I worked on a project for DrinkAware that combined the Flash website I built with a huge interactive billboard in Covent Garden.
+
+**Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
+
+At Bray Leino I worked on a point of sale Flash application for Intel that was used on showroom laptops to help buyers understand the difference and benefits of the different processors across the Intel range.
+
+**Senior Flash developer, Oakwood DC**, Permanent, Bristol, Feb 2007 - Feb 2009
+
+As Senior Flash Developer at Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons.
+
+**Web developer, Publicis Mojo**, Contract, Melbourne, Jan 2006 - May 2006
+
+I worked in Australia for Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006 and promotions for Australia's big game against Brazil where they dared to believe that history would not repeat itself (but, it did!).
+
+### Early career, a few years after university
 
 **Backpacking...**
 
-Apr 2003 - Apr 2005: Web developer @ Sol-Tec (Permanent, Reading)
+Apr 2003 - Apr 2005: Web developer, Sol-Tec (Permanent, Reading)
 
-Jul 2002 - Feb 2003: Web developer @ Strudwick & Young (Permanent, Reading)
+Jul 2002 - Feb 2003: Web developer, Strudwick & Young (Permanent, Reading)
 
 **Graduated University...**
 
-Sep 2001 - May 2002: Web designer @ ACS (Contract, Remote)
+Sep 2001 - May 2002: Web designer, ACS (Contract, Remote)
 
-May 2000 - Jul 2001: Web designer @ ACS (Permanent, High Wycombe)
+May 2000 - Jul 2001: Web designer, ACS (Permanent, High Wycombe)
+
 
 ## Education
 
@@ -87,26 +113,3 @@ A-levels: Computing (A), Maths (D), Physics (D)
 
 GCSE: 9 x grade C or above
 
-
-
-## Personal projects
-
-Outside of work, I like to dabble in new technology and have a few side projects on the go:
-
-### CYRUS
-
-Cyrus is a Windows and OSX desktop app built using Electron and Vue.  It's a productivity tool and provides quick and easy access to snippets and templates which you can paste into any application.
-
-https://www.youtube.com/watch?v=Mf8PFIL-4cQ
-
-
-### L M Barrett
-
-When we moved to Spain, my wife Lorraine wrote and self-published a number of books.  I proof-read and help edit her books, design her book covers and built her website.
-
-http://www.lmbarrett-author.com
-
-
-## Personal life
-
-I met my wife Lorraine while travelling in Thailand.  We have two kids, Daisy and Henry and live in Bath, having recently returned from living in Spain for 3 years, on the Costa Blanca. I enjoy spending time with my family, riding my bikes (either road or mountain) and being outdoors as much as possible.  In winters (pre-covid) we ski, and I have recently taken up wild swimming and completed my first Triathlon.
