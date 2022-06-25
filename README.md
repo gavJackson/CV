@@ -25,6 +25,8 @@ This is my current position where I continue to develop my frontend framework (k
 
 I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit. I continued on as the Group Head of Frontend Engineering.
 
+<div style="page-break-after: always;"></div>
+
 **Digital Keystone**
 *(5% shareholder in first company exit)*
 
