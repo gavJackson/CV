@@ -49,20 +49,13 @@ This was a short term contract to build a Flex video player where I was brought 
 
 An ex-colleague was running a project that ran into problems and I was brought in to save the project where we built a Flex website for the Jo Malone brand of Estee Lauder. One of my favourite parts of the project was creating a fruit machine style gift box generator where Jo Malone products were seemingly picked at random to build a gift box at a certain value, I had a lot of fun with blurred spinning animations and writing the algorithm to pick the products. 
 
-**Technical lead, Oakwood DC**, Contract, Bristol
-
-- May 2010 - Jul 2010
-- Feb 2010 - Apr 2010
-- Feb 2009 - Aug 2009
+**Technical lead, Oakwood DC**, Contract, Bristol , May 2010 - Jul 2010 & Feb 2010 - Apr 2010 & Feb 2009 - Aug 2009
 
 I left Oakwood DC as a permanent employee and continued on as a contractor where I headed up a team of 8 Flash Developers to deliver a £300k project for the electronics division of Mattel US.  We delivered the project on time and on budget.
 
 I re-joined Oakwood DC several times for short term contracts to help out on various Flash projects.
 
-**Flash developer, Enable Interactive**, Contract, Bristol
-
-- Apr 2010 - May 2010
-- Dec 2009 - Jan 2010
+**Flash developer, Enable Interactive**, Contract, Bristol, Apr 2010 - May 2010 & Dec 2009 - Jan 2010
 
 I worked at Enable interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
 
