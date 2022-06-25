@@ -1,8 +1,8 @@
 # Gavin Jackson, Bath, UK
 
-- **Group Head of Frontend Engineering, Dunstan Thomas**
-- Married with 2 children
-- Portfolio: https://www.digital-mojo.com/
+**Group Head of Frontend Engineering, Dunstan Thomas**
+
+Portfolio: https://www.digital-mojo.com/
 
 ## Profile
 
@@ -12,22 +12,18 @@
 - Most of my career has been spent in senior, tech lead or head positions where I lead the frontend development of multiple cross-functional, distributed agile teams.  
 - I have spent the last 10 years working in FinTech where I have written my own frontend framework which has been used to deliver multiple enterprise level wealth management platforms.  
 - Before that I spent 6 years working in Advertising creating web experiences for some of the biggest brands in the world.  
-- I believe I have been successful in my career because I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
+- I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
 
 
 ## Work experience
-
-
-### FinTech
-
 
 **Dunstan Thomas** *(1% shareholder in second company exit)*
 
 **Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
-This is my current position where I develop and add features to my frontend framework (known as Integro CX) and build tools to improve the developer experience.  I also hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
+This is my current position where I continue to develop my frontend framework (known as Integro CX) and build tools to improve the developer experience.  I also hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
-I became a shareholder in Dunstan Thomas, holding a 1% stake and in 2020 we sold Dunstan Thomas to Curtis Banks, in my second multi-million pound deal. I continued on as the Group Head of Frontend Engineering.
+I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit. I continued on as the Group Head of Frontend Engineering.
 
 **Digital Keystone**
 *(5% shareholder in first company exit)*
@@ -35,25 +31,23 @@ I became a shareholder in Dunstan Thomas, holding a 1% stake and in 2020 we sold
 
 **Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
 
-In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development in order to make Digital Keystone a more realistic proposition to sell in alignment with the founder's exit strategy, which we achieved several years ahead of our target, selling Digital Keystone to Dunstan Thomas in a multi-million pound deal.
+In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development and in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
 **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
 
-In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I designed and built the frontend of the multi award-winning frontend framework, known as Adaptive Portal (later renamed to Integro CX at Dunstan Thomas).  We used my frontend framework to deliver enterprise level client projects, mainly in financial services. Adaptive Portal also won the Platforum 'Best in show' award.
+In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I designed and built the frontend of the multi award-winning frontend framework, known as Adaptive Portal (later renamed to Integro CX at Dunstan Thomas).  We used my frontend framework to deliver enterprise level client projects, mainly in financial services. Adaptive Portal also won the Platforum 'Best in show' award.  Creating a frontend framework as a product was a strategic move to create value for the company.
 
 **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
 I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
 
-### Advertising
-
 **Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
 
-This was a short term contract to build a Flex video player where I was brought in to save the project, I rewrote the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today.
+This was a short term contract to build a Flex video player where I was brought in to save the project. I did this by rewriting the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today.
 
 **Flex developer, Estee Lauder**, Contract, Remote, Jul 2010 - Dec 2010
 
-An ex-colleague was running a project that ran into problems and I was brought in to save the project where we built a Flex website for the Jo Malone brand of Estee Lauder. One of my favourite parts of the build was creating a fruit machine style gift box generator where Jo Malone products were seemingly picked at random to build a gift box at a certain value, I had a lot of fun with blurred spinning animations. 
+An ex-colleague was running a project that ran into problems and I was brought in to save the project where we built a Flex website for the Jo Malone brand of Estee Lauder. One of my favourite parts of the project was creating a fruit machine style gift box generator where Jo Malone products were seemingly picked at random to build a gift box at a certain value, I had a lot of fun with blurred spinning animations and writing the algorithm to pick the products. 
 
 **Technical lead, Oakwood DC**, Contract, Bristol
 
@@ -70,7 +64,7 @@ I re-joined Oakwood DC several times for short term contracts to help out on var
 - Apr 2010 - May 2010
 - Dec 2009 - Jan 2010
 
-At Enable interactive I worked on a project for DrinkAware that combined the Flash website I built with a huge interactive billboard in Covent Garden.
+I worked at Enable interactive as a contractor on two accosions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
 
 **Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
 
@@ -82,28 +76,23 @@ As Senior Flash Developer at Oakwood DC, I worked on a number of Flash projects 
 
 **Web developer, Publicis Mojo**, Contract, Melbourne, Jan 2006 - May 2006
 
-I worked in Australia for Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006 and promotions for Australia's big game against Brazil where they dared to believe that history would not repeat itself (but, it did!).
+I worked in Australia for Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006.
 
-### Early career, a few years after university
+**Web developer, Sol-Tec**, Permanent, Reading, Apr 2003 - Apr 2005
 
-**Backpacking...**
+**Web developer, Strudwick & Young**, Permanent, Reading, Jul 2002 - Feb 2003
 
-Apr 2003 - Apr 2005: Web developer, Sol-Tec (Permanent, Reading)
+**Web designer, ACS**, Contract, Remote,
+Sep 2001 - May 2002
 
-Jul 2002 - Feb 2003: Web developer, Strudwick & Young (Permanent, Reading)
-
-**Graduated University...**
-
-Sep 2001 - May 2002: Web designer, ACS (Contract, Remote)
-
-May 2000 - Jul 2001: Web designer, ACS (Permanent, High Wycombe)
-
+**Web designer, ACS**, Permanent, High Wycombe,
+May 2000 - Jul 2001
 
 ## Education
 
 **1998 - 2002: De Montfort University Leicester**
 
-Multimedia Computing: 1st BSc (Hons) - top of my class
+Multimedia Computing: 1st BSc (Hons) - Graduated top of my class
 
 **1997-1998: Amersham & Wycombe College**
 
