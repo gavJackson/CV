@@ -31,11 +31,11 @@ I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sol
 
 **Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
 
-In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development and in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
+In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
 **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
 
-In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I designed and built the frontend of the multi award-winning frontend framework, known as Adaptive Portal (later renamed to Integro CX at Dunstan Thomas).  We used my frontend framework to deliver enterprise level client projects, mainly in financial services. Adaptive Portal also won the Platforum 'Best in show' award.  Creating a frontend framework as a product was a strategic move to create value for the company.
+In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I started designing and building my frontend framework, which we used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
 
 **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
@@ -64,7 +64,7 @@ I re-joined Oakwood DC several times for short term contracts to help out on var
 - Apr 2010 - May 2010
 - Dec 2009 - Jan 2010
 
-I worked at Enable interactive as a contractor on two accosions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
+I worked at Enable interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
 
 **Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
 
@@ -72,7 +72,7 @@ At Bray Leino I worked on a point of sale Flash application for Intel that was u
 
 **Senior Flash developer, Oakwood DC**, Permanent, Bristol, Feb 2007 - Feb 2009
 
-As Senior Flash Developer at Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons.
+As Senior Flash Developer at Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons. I also trained and mentored junior Flash developers.
 
 **Web developer, Publicis Mojo**, Contract, Melbourne, Jan 2006 - May 2006
 
