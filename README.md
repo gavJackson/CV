@@ -2,7 +2,9 @@
 
 **Group Head of Frontend Engineering, Dunstan Thomas**
 
-Portfolio: https://www.digital-mojo.com/
+- https://www.digital-mojo.com/
+- gav_jackson@yahoo.com
+- 07587 426 936
 
 ## Profile
 
