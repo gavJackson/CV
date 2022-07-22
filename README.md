@@ -27,12 +27,7 @@ This is my current position where I continue to develop my frontend framework (k
 
 I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit. I continued on as the Group Head of Frontend Engineering.
 
----
-
-<div style="page-break-after: always;"></div>
-
 ### Digital Keystone: 5% shareholder in 1st company exit
-
 
 **- Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
 
@@ -45,8 +40,6 @@ In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I st
 **- Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
 I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
-
---- 
 
 **Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
 
