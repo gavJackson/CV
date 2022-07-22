@@ -29,9 +29,9 @@ I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sol
 
 **Digital Keystone** *(5% shareholder in 1st company exit)*
 
-- **Head of Frontend development, Digital Keystone**, Permanent, Remote, May 2015 - Oct 2018
-- **Lead Frontend developer, Digital Keystone**, Contract, Remote, Apr 2012 - May 2015
-- **Flex developer, Digital Keystone**, Contract, Bath, Mar 2011 - Apr 2012
+- **Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
+- **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
+- **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
 In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
