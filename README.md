@@ -21,29 +21,24 @@
 
 **Dunstan Thomas** *(1% shareholder in 2nd company exit)*
 
-**- Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
+- **Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
 This is my current position where I continue to develop my frontend framework (known as Integro CX) and build tools to improve the developer experience.  I also hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
 I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit. I continued on as the Group Head of Frontend Engineering.
 
----
-
 **Digital Keystone** *(5% shareholder in 1st company exit)*
 
-**- Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
+- **Head of Frontend development, Digital Keystone**, Permanent, Remote, May 2015 - Oct 2018
+- **Lead Frontend developer, Digital Keystone**, Contract, Remote, Apr 2012 - May 2015
+- **Flex developer, Digital Keystone**, Contract, Bath, Mar 2011 - Apr 2012
 
 In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
-**- Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
-
 In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I started designing and building my frontend framework, which we used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
-
-**- Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
 I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
 
---- 
 
 **Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
 
