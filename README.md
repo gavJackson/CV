@@ -23,9 +23,9 @@
 
 - **Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
-This is my current position where I continue to develop my frontend framework (known as Integro CX) and build tools to improve the developer experience.  I also hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
+Dunstan Thomas are a FinTech software house and this is my current position where I continue to develop my frontend framework (known as Integro CX) which is used to deliver enterprise level wealth management platforms. I also build tools to improve the developer experience, hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
-I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit. I continued on as the Group Head of Frontend Engineering.
+I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit.
 
 **Digital Keystone** *(5% shareholder in 1st company exit)*
 
@@ -33,16 +33,16 @@ I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sol
 - **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
 - **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
-In 2015, I was offered a 5% stake in the company and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
+In 2015, I was offered a 5% stake in Digital Keystone, a FinTech software house, and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
-In 2012 I was promoted to Lead Frontend developer at Digital Keystone where I started designing and building my frontend framework, which we used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
+In 2012 I was promoted to Lead Frontend developer where I started designing and building my frontend framework, which was used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
 
 I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
 
 
 **Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
 
-This was a short term contract to build a Flex video player where I was brought in to save the project. I did this by rewriting the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today.
+This was a short term contract to build a Flex video player where I was brought in to save the project. I did this by rewriting the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today, but over 10 years ago!
 
 **Flex developer, Estee Lauder**, Contract, Remote, Jul 2010 - Dec 2010
 
@@ -50,25 +50,25 @@ An ex-colleague was running a project that ran into problems and I was brought i
 
 **Technical lead, Oakwood DC**, Contract, Bristol , May 2010 - Jul 2010 & Feb 2010 - Apr 2010 & Feb 2009 - Aug 2009
 
-I left Oakwood DC as a permanent employee and continued on as a contractor where I headed up a team of 8 Flash Developers to deliver a £300k project for the electronics division of Mattel US.  We delivered the project on time and on budget.
+I left the digital agency Oakwood DC as a permanent employee and continued on as a contractor where I headed up a team of 8 Flash Developers to deliver a £300k project for the electronics division of Mattel US.  We delivered the project on time and on budget.
 
 I re-joined Oakwood DC several times for short term contracts to help out on various Flash projects.
 
 **Flash developer, Enable Interactive**, Contract, Bristol, Apr 2010 - May 2010 & Dec 2009 - Jan 2010
 
-I worked at Enable interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
+I worked at the digital agency Enable Interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
 
 **Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
 
-At Bray Leino I worked on a point of sale Flash application for Intel that was used on showroom laptops to help buyers understand the difference and benefits of the different processors across the Intel range.
+At the digital agency Bray Leino I worked on a point of sale Flash application for Intel that was used on showroom laptops to help buyers understand the difference and benefits of the different processors across the Intel range.
 
 **Senior Flash developer, Oakwood DC**, Permanent, Bristol, Feb 2007 - Feb 2009
 
-As Senior Flash Developer at Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons. I also trained and mentored junior Flash developers.
+As Senior Flash Developer at the digital agency Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons. I also trained and mentored junior Flash developers.
 
 **Web developer, Publicis Mojo**, Contract, Melbourne, Jan 2006 - May 2006
 
-I worked in Australia for Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006.
+I worked in Australia for the digital agency Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006.
 
 **Web developer, Sol-Tec**, Permanent, Reading, Apr 2003 - Apr 2005
 
