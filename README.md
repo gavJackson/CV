@@ -1,6 +1,4 @@
-# Gavin Jackson, Bath, UK
-
-**Group Head of Frontend Engineering, Dunstan Thomas** 
+## Gavin Jackson, Bath, UK
 
 https://www.digital-mojo.com/ • gav_jackson@yahoo.com • 07587 426 936
 
