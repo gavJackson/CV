@@ -33,7 +33,7 @@ I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sol
 - **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
 - **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
 
-In 2015, I was offered a 5% stake in Digital Keystone, a FinTech software house, and the permanent position of Head of Frontend Development where I focused on productising my frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
+In 2015, I was offered a 5% stake in Digital Keystone, a FinTech software house, and the permanent position of Head of Frontend Development where I focused on productising my low code frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
 
 In 2012 I was promoted to Lead Frontend developer where I started designing and building my frontend framework, which was used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
 
@@ -56,11 +56,11 @@ I re-joined Oakwood DC several times for short term contracts to help out on var
 
 **Flash developer, Enable Interactive**, Contract, Bristol, Apr 2010 - May 2010 & Dec 2009 - Jan 2010
 
-I worked at the digital agency Enable Interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined the Flash website I built with a huge interactive billboard in Covent Garden.
+I worked at the digital agency Enable Interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined my Flash website with a huge interactive billboard in Covent Garden.
 
 **Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
 
-At the digital agency Bray Leino I worked on a point of sale Flash application for Intel that was used on showroom laptops to help buyers understand the difference and benefits of the different processors across the Intel range.
+At the digital agency Bray Leino I worked on a point of sale Flash application for Intel that was used on shop floor laptops.
 
 **Senior Flash developer, Oakwood DC**, Permanent, Bristol, Feb 2007 - Feb 2009
 
