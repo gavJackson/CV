@@ -6,6 +6,8 @@
 - gav_jackson@yahoo.com
 - 07587 426 936
 
+I truly believe that the frontend, the thing that users interact with, makes or breaks a product.  Solid, robust and performant frontends show that you are trust worthy and established. Shonky, janky, slow frontends will harm your brand.  Frontends can elevate your users experience beyond your competitors, they should be beautiful but they can also delight through attention to detail, consistency and cool micro interactions.  
+
 ## Profile
 
 
