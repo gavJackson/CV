@@ -10,7 +10,7 @@ I truly believe that the frontend, the thing that users interact with, makes or 
 - I am a Frontend specialist with over 20 years of professional experience.  
 - I have been involved in two multi-million pound company exits, both centred around the products I built.  
 - Most of my career has been spent in senior, tech lead or head positions where I lead the frontend development of multiple cross-functional, distributed agile teams.  
-- I have spent the last 10 years working in FinTech where I have written my own low-code frontend framework Integro CX which has been used to deliver multiple enterprise level wealth management platforms.  
+- I have spent the last 10 years working in FinTech where I have written my own low-code frontend framework "Integro CX", which has been used to deliver multiple enterprise level wealth management platforms.  
 - Before that I spent 6 years working in Advertising creating web experiences for some of the biggest brands in the world.  
 - I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
 
