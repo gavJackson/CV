@@ -12,7 +12,7 @@
 - I am a Frontend specialist with over 20 years of professional experience.  
 - I have been involved in two multi-million pound company exits, both centred around the products I built.  
 - Most of my career has been spent in senior, tech lead or head positions where I lead the frontend development of multiple cross-functional, distributed agile teams.  
-- I have spent the last 10 years working in FinTech where I have written my own frontend framework which has been used to deliver multiple enterprise level wealth management platforms.  
+- I have spent the last 10 years working in FinTech where I have written my own low-code frontend framework which has been used to deliver multiple enterprise level wealth management platforms.  
 - Before that I spent 6 years working in Advertising creating web experiences for some of the biggest brands in the world.  
 - I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
 
@@ -23,7 +23,7 @@
 
 - **Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
-Dunstan Thomas are a FinTech software house and this is my current position where I continue to develop my frontend framework (known as Integro CX) which is used to deliver enterprise level wealth management platforms. I also build tools to improve the developer experience, hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
+Dunstan Thomas are a FinTech software house and this is my current position where I continue to add features to my low-code frontend framework (known as Integro CX). I also build tools to improve the developer experience, hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
 I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit.
 
