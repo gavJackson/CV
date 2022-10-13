@@ -1,6 +1,7 @@
 # Gavin Jackson, Bath, UK
 
-**Group Head of Frontend Engineering, Dunstan Thomas** https://www.digital-mojo.com/ | gav_jackson@yahoo.com | 07587 426 936
+**Group Head of Frontend Engineering, Dunstan Thomas** 
+https://www.digital-mojo.com/ • gav_jackson@yahoo.com • 07587 426 936
 
 I truly believe that the frontend, the thing that users interact with, makes or breaks a product.  Solid, robust and performant frontends show that you are trust worthy and established. Shonky, janky, slow frontends will harm your brand.  Frontends can elevate your users experience beyond your competitors, they should be beautiful but they can also delight through attention to detail, consistency and cool micro interactions.  
 
@@ -19,7 +20,7 @@ I truly believe that the frontend, the thing that users interact with, makes or 
 
 **Dunstan Thomas** *(1% shareholder in 2nd company exit)*
 
-- **Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
+**Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
 
 Dunstan Thomas are a FinTech software house and this is my current position where I continue to add features to my low-code frontend framework for creating Single Page Applications consisting of Dashboards and Forms. I also build tools to improve the developer experience, hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
 
