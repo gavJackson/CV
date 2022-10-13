@@ -1,4 +1,4 @@
-### Gavin Jackson, Bath, UK
+# Gavin Jackson, Bath, UK
 
 https://www.digital-mojo.com/ • gav_jackson@yahoo.com • 07587 426 936
 
