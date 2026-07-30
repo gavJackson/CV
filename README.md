@@ -11,7 +11,7 @@ Bath, United Kingdom
 
 # Staff / Principal Frontend Engineer
 
-Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. Focused on monorepos, micro-frontends, user experience, information architecture, accessibility, testing and mentoring engineering teams to ship rapidly without accruing technical debt.
+Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. Focused on monorepos, micro-frontends, user experience, information architecture, accessibility, testing and mentoring engineering teams to ship rapidly without building technical debt.
 
 Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
 
@@ -128,14 +128,6 @@ Created a visual regression testing platform built on Cypress that automatically
 Reduced regression testing effort while increasing confidence in releases.
 
 Here is an example site map and prototype site: https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/
-
-#### Frontend Architecture
-
-Designed scalable micro-frontend architecture supporting multiple enterprise products while improving consistency, maintainability and long-term evolution.
-
-#### Developer Experience
-
-Built engineering tooling, reusable libraries and development workflows that significantly reduced feature delivery time while improving consistency across engineering teams.
 
 #### Accessibility
 
