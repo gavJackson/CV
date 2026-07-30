@@ -32,7 +32,7 @@ Specialises in creating reusable engineering systems that enable teams to delive
 | Technical Strategy | Component Libraries | HTML5 | Animation |
 | Engineering Leadership | Low-code Platforms | CSS3 / LESS | Information Architecture |
 | Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Wireframing & Prototyping |
-| Hiring & Technical Interviews | CI/CD | Web Components | Understanding Requirements |
+| Hiring & Technical Interviews | CI/CD | Web Components | Understanding & Estimating Requirements |
 | Stakeholder Management | Code Reviews | Automated Testing with Cypress | Video Editing / Creation |
 | Product Strategy | API Design / Data Structures | Responsive Design | Interaction design | Microinteractions |
 | Agile Delivery | Git / Azure DevOps | Cross Browser | Accessibility |
