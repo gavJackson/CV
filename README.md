@@ -91,16 +91,7 @@ Today the platform underpins **14** enterprise applications and has become the f
 
 Key capabilities include:
 
-- Dynamic forms
-- Dashboard framework
-- Workflow engine
-- Validation engine
-- Theme engine
-- Responsive layouts
-- Reusable UI component library (**35+ components**)
-- Plugin architecture
-- Developer tooling
-- Build automation
+Dynamic forms • Dashboard framework • Workflow engine • Validation engine • Theme engine • Responsive layouts • Reusable UI component library (**35+**) • Plugin architecture • Developer tooling • Build automation
 
 #### Developer Experience Platform
 
