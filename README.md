@@ -96,7 +96,7 @@ Rather than maintaining documentation manually, every UI component exposes a JSO
 
 The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library.  I also pointed our test tooling at the live examples, ensuring every UI component and all of its configurable variants are regularly tested, checking for visual, functional or accessibility regressions.
 
-You can access the ICX documentation here: https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html
+You can access the ICX documentation [here](https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html)
 
 #### Automated Testing
 
@@ -104,7 +104,7 @@ Created a visual regression testing platform built on Cypress that automatically
 
 Reduced regression testing effort while increasing confidence in releases.
 
-Here is an example site map and prototype site: https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/
+[An example site map and prototype app](https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/)
 
 #### Accessibility
 
@@ -143,7 +143,7 @@ Designed and developed a GPX processing tool that automatically detects uplift-a
 
 Growing side project demonstrating modern frontend engineering, mapping technologies and product development.
 
-Here it is: https://www.digital-mojo.com/strava-dh
+[StravaDH](https://www.digital-mojo.com/strava-dh)
 
 ---
 
@@ -151,7 +151,7 @@ Here it is: https://www.digital-mojo.com/strava-dh
 
 Built a browser-based version of Guess Who during a one-day internal hackathon using AI-generated avatars of Dunstan Thomas employees.
 
-You can play with it here: https://jolly-pond-0d271dd03.3.azurestaticapps.net/
+You can play with it [here](https://jolly-pond-0d271dd03.3.azurestaticapps.net/)
 
 ---
 
