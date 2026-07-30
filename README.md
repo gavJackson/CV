@@ -84,9 +84,7 @@ Rather than building each application independently, ICX provides a configurable
 
 Today the platform underpins **14** enterprise applications and has become the foundation for frontend development across the business.
 
-Key capabilities include:
-
-Dynamic forms • Dashboard framework • Workflow engine • Validation engine • Theme engine • Responsive layouts • Reusable UI component library (**35+**) • Plugin architecture • Developer tooling • Build automation
+**Key capabilities include**: Dynamic forms • Dashboard framework • Workflow engine • Validation engine • Theme engine • Responsive layouts • Reusable UI component library (**35+**) • Plugin architecture • Developer tooling • Build automation
 
 #### Developer Experience Platform
 
@@ -94,14 +92,7 @@ Designed and developed a developer experience platform to accompany ICX, ensurin
 
 Rather than maintaining documentation manually, every UI component exposes a JSON manifest describing its API, configuration options and metadata. A custom Markdown-based documentation engine consumes these manifests to generate a complete interactive documentation website.
 
-Features include:
-
-- Automatic API documentation from component manifests
-- Embedded code examples
-- Markdown-authored guides and tutorials
-- Version-controlled documentation
-- Zero duplication between implementation and documentation
-- Feature usage tracking (during test runs) and reporting directly in the documentation
+**Features include:** Automatic API documentation from component manifests • Embedded code examples • Markdown-authored guides and tutorials • Version-controlled documentation • Zero duplication between implementation and documentation • Feature usage tracking (during test runs) and reporting directly in the documentation
 
 The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library.  I also pointed our test tooling at the live examples, ensuring every UI component and all of its configurable variants are regularly tested, checking for visual, functional or accessibility regressions.
 
