@@ -17,8 +17,6 @@ Specialises in creating reusable engineering systems that enable teams to delive
 
 # Career Highlights
 
-- Technical leader through two successful company acquisitions
-- 20+ years specialising in frontend engineering
 - Creator and architect of **ICX**, a proprietary low-code frontend platform
 - Frontend engineering lead for enterprise software used by 7IM, Aegon, Canada Life and Nucleus with more than **£400 billion** AUM combined
 - Led multiple engineering teams with up to **10** developers alongside a PM, BAs and Testers
