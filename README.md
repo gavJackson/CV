@@ -20,9 +20,8 @@ Specialises in creating reusable engineering systems that enable teams to delive
 - Technical leader through two successful company acquisitions
 - 20+ years specialising in frontend engineering
 - Creator and architect of **ICX**, a proprietary low-code frontend platform
-- Frontend engineering lead for enterprise software used by 7IM, Aegon, Canada Life and Nucleus
+- Frontend engineering lead for enterprise software used by 7IM, Aegon, Canada Life and Nucleus with more than **£400 billion** AUM combined
 - Led multiple engineering teams with up to **10** developers alongside a PM, BAs and Testers
-- Built products supporting enterprise clients with ~**£400 billion** AUM combined
 - Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
 - Champion of AI-assisted software development, engineering automation and developer experience
 
