@@ -54,7 +54,7 @@ Provides technical leadership for frontend engineering across the company's flag
 - Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver award winning, enterprise wealth management software for organisations including **7IM** (£27 billion AUM), **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
 - Built an engineering platform that dramatically improved developer experience, including reusable component libraries, automated tooling and a live documentation system for the entire frontend framework
 - Led frontend engineering across at least **15** product teams
-- Mentored **7** frontend engineers over the years, and established engineering standards across the organisation
+- Mentored **8** frontend engineers over the years, and established engineering standards across the organisation
 - Played a key technical leadership role during **two successful company acquisitions**
 - Worked with senior leadership to define frontend strategy and long-term technical direction
 - Supported pre-sales activities, technical demonstrations and enterprise customer engagements
@@ -71,7 +71,6 @@ Provides technical leadership for frontend engineering across the company's flag
 	- Code generation → productivity
 	- Accessibility framework → compliance
 	- Theme engine → branding
-	- Dashboard framework → product capability
 
 ### ICX — Creator & Chief Architect
 
