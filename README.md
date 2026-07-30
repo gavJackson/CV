@@ -6,18 +6,19 @@ Bath, United Kingdom • gav_jackson@yahoo.com • [LinkedIn](https://www.linked
 
 # Staff / Principal Frontend Engineer
 
-Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. Focused on monorepos, micro-frontends, user experience, information architecture, accessibility, testing and mentoring engineering teams to ship rapidly without building technical debt.
+Technical leader through two successful company acquisitions.
+
+Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Extensive experience with React, and some with Svelte and Vue. Archtects monorepo, micro-frontends while mentoring engineering teams to ship rapidly without building technical debt.
 
 Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
 
-Technical leader through two successful company acquisitions.
 
 ---
 
 # Career Highlights
 
-- 20+ years specialising in frontend engineering
 - Technical leader through two successful company acquisitions
+- 20+ years specialising in frontend engineering
 - Creator and architect of **ICX**, a proprietary low-code frontend platform
 - Frontend engineering lead for enterprise software used by 7IM, Aegon, Canada Life and Nucleus
 - Led multiple engineering teams with up to **10** developers alongside a PM, BAs and Testers
@@ -34,9 +35,9 @@ Technical leader through two successful company acquisitions.
 | Frontend Architecture | Design Systems | JavaScript | Design |
 | Technical Strategy | Component Libraries | HTML5 | Animation |
 | Engineering Leadership | Low-code Platforms | CSS3 / LESS | Information Architecture |
-| Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Prototyping |
-| Hiring & Technical Interviews | CI/CD | Web Components | Wireframing |
-| Stakeholder Management | Automated Testing | Cypress | Video Editing |
+| Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Wireframing & Prototyping |
+| Hiring & Technical Interviews | CI/CD | Web Components | Understanding Requirements |
+| Stakeholder Management | Code Reviews | Automated Testing with Cypress | Video Editing / Creation |
 | Product Strategy | API Design / Data Structures | Responsive Design | Interaction design | Microinteractions |
 | Agile Delivery | Git / Azure DevOps | Cross Browser | Accessibility |
 | Technical Roadmaps | AI-assisted Development | Performance | Analytics |
