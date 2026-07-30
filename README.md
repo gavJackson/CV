@@ -11,7 +11,7 @@ Bath, United Kingdom
 
 # Staff / Principal Frontend Engineer
 
-Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. I bridge the gap between product strategy and engineering execution—focusing on monorepos, micro-frontends, core web vitals, and mentoring engineering teams to ship rapidly without accruing technical debt.
+Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. Focused on monorepos, micro-frontends, user experience, information architecture, accessibility, testing and mentoring engineering teams to ship rapidly without accruing technical debt.
 
 Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
 
@@ -25,7 +25,7 @@ Technical leader through two successful company acquisitions.
 - Technical leader through two successful company acquisitions
 - Creator and architect of **ICX**, a proprietary low-code frontend platform
 - Frontend engineering lead for enterprise software used by Aegon, Canada Life and Nucleus
-- Led multiple engineering teams with up to **10** developers
+- Led multiple engineering teams with up to **10** developers as well as multiple BAs and Testers
 - Built products supporting enterprise clients with ~**£400 billion** AUM combined
 - Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
 - Champion of AI-assisted software development, engineering automation and developer experience
@@ -61,29 +61,25 @@ Provides technical leadership for frontend engineering across the company's flag
 
 - Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver enterprise wealth management software for organisations including **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
 - Built an engineering platform that dramatically improved developer experience, including reusable component libraries, automated tooling and a live documentation system for the entire frontend framework
-- Led frontend engineering across **~15~** product teams
+- Led frontend engineering across at least **15** product teams
 - Mentored **7** frontend engineers over the years, and established engineering standards across the organisation
 - Played a key technical leadership role during **two successful company acquisitions**
 - Worked with senior leadership to define frontend strategy and long-term technical direction
 - Supported pre-sales activities, technical demonstrations and enterprise customer engagements
 - Introduced AI-assisted engineering workflows using GitHub Copilot, custom instruction files and code-generation techniques, improving developer productivity
-
-### Frontend Engineering Platform
-
-I have built an entire engineering ecosystem:
-
-- ICX → application platform
-- Low-code framework → rapid application development
-- Component library → reusable UI
-- Visual regression testing platform → quality
-- Markdown documentation platform → developer experience
-- JSON manifest system → metadata-driven architecture
-- AI instruction files → AI-assisted development
-- Build tooling → automation
-- Code generation → productivity
-- Accessibility framework → compliance
-- Theme engine → branding
-- Dashboard framework → product capability
+- Built an entire engineering ecosystem:
+	- ICX → application platform
+	- Low-code framework → rapid application development
+	- Component library → reusable UI
+	- Visual regression testing platform → quality
+	- Markdown documentation platform → developer experience
+	- JSON manifest system → metadata-driven architecture
+	- AI instruction files → AI-assisted development
+	- Build tooling → automation
+	- Code generation → productivity
+	- Accessibility framework → compliance
+	- Theme engine → branding
+	- Dashboard framework → product capability
 
 #### **ICX — Creator & Chief Architect**
 
@@ -115,7 +111,6 @@ Rather than maintaining documentation manually, every UI component exposes a JSO
 Features include:
 
 - Automatic API documentation from component manifests
-- Live interactive component playgrounds
 - Automatically generated configuration reference
 - Embedded code examples
 - Markdown-authored guides and tutorials
@@ -126,35 +121,25 @@ The platform became the primary reference for frontend engineers, significantly 
 
 You can access the ICX documentation here: https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html
 
----
-
 #### Automated Testing
 
-Created a visual regression testing platform built on Cypress.io that automatically generates interactive application maps and validates the complete frontend using screenshot comparison.
+Created a visual regression testing platform built on Cypress that automatically generates interactive application maps and validates the complete frontend using screenshot comparison.
 
 Reduced regression testing effort while increasing confidence in releases.
 
 Here is an example site map and prototype site: https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/
 
----
-
 #### Frontend Architecture
 
 Designed scalable micro-frontend architecture supporting multiple enterprise products while improving consistency, maintainability and long-term evolution.
-
----
 
 #### Developer Experience
 
 Built engineering tooling, reusable libraries and development workflows that significantly reduced feature delivery time while improving consistency across engineering teams.
 
----
-
 #### Accessibility
 
 Defined engineering standards and development processes that embedded WCAG compliance throughout the software development lifecycle.
-
----
 
 #### Performance
 
@@ -164,7 +149,7 @@ Continuously improved application performance through modern frontend architectu
 
 # Earlier Career — Agency & Consultancy
 
-Before specialising in enterprise FinTech, delivered digital products for agencies and consultancies across the UK and Australia, working with brands including Nike, Intel, Disney, Mattel, HP, Jo Malone, Estée Lauder and the Victorian Government.
+Before specialising in enterprise FinTech, delivered digital products for agencies and consultancies across the UK (and one in Australia), working with brands including Nike, Intel, Disney, Mattel, HP, Jo Malone, Estée Lauder and the Victorian Government.
 
 | Company | Type | Location | Dates |
 | --- | --- | --- | --- |
