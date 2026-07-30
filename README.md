@@ -136,13 +136,13 @@ Before specialising in enterprise FinTech, delivered digital products for agenci
 
 ## StravaDH
 
-Designed and developed an online GPX processing [tool](https://www.digital-mojo.com/strava-dh) that automatically detects uplift-assisted downhill mountain bike sessions and removes uplift sections before upload to Strava.
+Designed and developed an online GPX processing [tool](https://www.digital-mojo.com/strava-dh) that automatically detects uplift-assisted downhill mountain bike sessions and removes uplift sections before uploading to Strava.
 
 ---
 
 ## GuessWho DT Edition
 
-Built a browser-based version of Guess Who during a one-day internal hackathon using AI-generated avatars of Dunstan Thomas employees.
+Built a browser-based version of Guess Who during a one-day internal hackathon using existing avatars of Dunstan Thomas employees.
 
 You can play with it [here](https://jolly-pond-0d271dd03.3.azurestaticapps.net/)
 
