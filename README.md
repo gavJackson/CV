@@ -111,11 +111,11 @@ Rather than maintaining documentation manually, every UI component exposes a JSO
 Features include:
 
 - Automatic API documentation from component manifests
-- Automatically generated configuration reference
 - Embedded code examples
 - Markdown-authored guides and tutorials
 - Version-controlled documentation
 - Zero duplication between implementation and documentation
+- Feature usage tracking (during test runs) and reporting directly in the documentation
 
 The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library.  I also pointed our test tooling at the live examples, ensuring every UI component and all of its configurable variants are regularly tested, checking for visual, functional or accessibility regressions.
 
@@ -123,7 +123,7 @@ You can access the ICX documentation here: https://proud-glacier-058ef0310.1.azu
 
 #### Automated Testing
 
-Created a visual regression testing platform built on Cypress that automatically generates interactive application maps and validates the complete frontend using screenshot comparison.
+Created a visual regression testing platform built on Cypress that automatically generates interactive application maps, feature usage statistics and validates the complete frontend using screenshot comparison and accessibility audits.
 
 Reduced regression testing effort while increasing confidence in releases.
 
@@ -139,11 +139,11 @@ Built engineering tooling, reusable libraries and development workflows that sig
 
 #### Accessibility
 
-Defined engineering standards and development processes that embedded WCAG compliance throughout the software development lifecycle.
+Defined engineering standards and development processes that embedded WCAG and ARIA compliance throughout the software development lifecycle.
 
 #### Performance
 
-Continuously improved application performance through modern frontend architecture, reusable components and engineering best practices.
+Continuously improved application performance through modern frontend architecture, reusable components, benchmarking and engineering best practices.
 
 ---
 
@@ -198,4 +198,4 @@ Graduated **top of the class**.
 
 ## Interests
 
-Mountain biking • Skiing • Frontend architecture • AI-assisted software development • Developer tooling
+Mountain biking • Road cycling • Skiing • Frontend architecture • AI-assisted software development • Developer tooling
