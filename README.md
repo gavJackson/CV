@@ -73,7 +73,7 @@ Provides technical leadership for frontend engineering across the company's flag
 	- Theme engine → branding
 	- Dashboard framework → product capability
 
-#### **ICX — Creator & Chief Architect**
+### ICX — Creator & Chief Architect
 
 Designed and built **ICX**, a proprietary low-code frontend platform that fundamentally changed how enterprise applications are developed within the organisation.
 
@@ -83,7 +83,7 @@ Today the platform underpins **14** enterprise applications and has become the f
 
 **Key capabilities include**: Dynamic forms • Dashboard framework • Workflow engine • Validation engine • Theme engine • Responsive layouts • Reusable UI component library (**35+**) • Plugin architecture • Developer tooling • Build automation
 
-#### Developer Experience Platform
+### Developer Experience Platform
 
 Designed and developed a developer experience platform to accompany ICX, ensuring engineering documentation remained accurate, discoverable and automatically synchronised with the framework.
 
@@ -95,7 +95,7 @@ The platform became the primary reference for frontend engineers, significantly 
 
 You can access the ICX documentation [here](https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html)
 
-#### Automated Testing
+### Automated Testing
 
 Created a visual regression testing platform built on Cypress that automatically generates interactive application maps, feature usage statistics and validates the complete frontend using screenshot comparison and accessibility audits.
 
@@ -103,11 +103,11 @@ Reduced regression testing effort while increasing confidence in releases.
 
 [An example site map and prototype app](https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/)
 
-#### Accessibility
+### Accessibility
 
 Defined engineering standards and development processes that embedded WCAG and ARIA compliance throughout the software development lifecycle.
 
-#### Performance
+### Performance
 
 Continuously improved application performance through modern frontend architecture, reusable components, benchmarking and engineering best practices.
 
@@ -136,7 +136,7 @@ Before specialising in enterprise FinTech, delivered digital products for agenci
 
 ## StravaDH
 
-Designed and developed an online GPX processing [tool](https://www.digital-mojo.com/strava-dh) that automatically detects uplift-assisted downhill mountain bike sessions and removes uplift sections before uploading to Strava.
+Designed and developed an online GPX processing [tool](https://www.digital-mojo.com/strava-dh) that automatically detects uplift-assisted downhill mountain bike sessions and removes the uplift sections before uploading to Strava.
 
 ---
 
