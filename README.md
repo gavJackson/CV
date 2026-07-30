@@ -6,21 +6,21 @@ Bath, United Kingdom • gav_jackson@yahoo.com • [LinkedIn](https://www.linked
 
 # Staff / Principal Frontend Engineer
 
-Technical leader through two successful company acquisitions.
+Frontend engineering leader with 20+ years' experience designing scalable web applications, engineering platforms and frontend architecture.
 
-Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Extensive experience with React, and some with Svelte and Vue. Builds monorepo, micro-frontends while mentoring engineering teams to ship rapidly, meeting requirements without building technical debt.
+Technical leader through two successful company acquisitions and creator of **ICX**, a proprietary low-code platform that powers enterprise wealth management software.
 
-Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
+Specialises in building engineering platforms, frameworks, tooling and automation that enable teams to deliver complex software rapidly without accumulating technical debt.
 
 
 ---
 
 # Career Highlights
 
-- Creator and architect of **ICX**, a proprietary low-code frontend platform along with an entire engineering ecosystem
-- Led engineering teams of up to **10** developers alongside a PM, BAs and Testers delivering enterprise wealth management platforms for clients like 7IM, Aegon, Canada Life and Nucleus who have more than **£400 billion** combined AUM
+- Creator and Chief Architect of **ICX**, an internal frontend developer platform that standardised application development across 14 enterprise products
+- Led frontend engineering for wealth management platforms supporting clients managing over **£400 billion** in assets
 - Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
-- Champion of AI-assisted software development, engineering automation and developer experience
+- Created a metadata-driven documentation and testing platform that keeps documentation, live examples and automated tests permanently synchronised
 
 ---
 
@@ -34,7 +34,7 @@ Specialises in creating reusable engineering systems that enable teams to delive
 | Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Wireframing & Prototyping |
 | Hiring & Technical Interviews | CI/CD | Web Components | Understanding & Estimating Requirements |
 | Stakeholder Management | Code Reviews | Automated Testing with Cypress | Video Editing / Creation |
-| Product Strategy | API Design / Data Structures | Responsive Design | Interaction design | Microinteractions |
+| Product Strategy | API Design & Data Structures | Responsive Design | Interaction design & Microinteractions |
 | Agile Delivery | Git / Azure DevOps | Cross Browser | Accessibility |
 | Technical Roadmaps | AI-assisted Development | Performance | Analytics |
 
@@ -47,56 +47,53 @@ Specialises in creating reusable engineering systems that enable teams to delive
 ### Group Head of Frontend Engineering
 *2011 – Present*
 
-Provides technical leadership for frontend engineering across the company's flagship wealth management platform, defining architecture, engineering standards and long-term technical strategy.
+Leads frontend engineering across the company's flagship wealth management platform, defining architecture, engineering standards and long-term technical strategy.
 
 ### Key Achievements
 
-- Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver award winning, enterprise wealth management software for organisations including **7IM** (£27 billion AUM), **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
-- Built an engineering platform that dramatically improved developer experience, including reusable component libraries, automated tooling and a live documentation system for the entire frontend framework
+- Conceived, architected and built **ICX**, a proprietary **metadata-driven frontend application platform** used to deliver award winning, enterprise wealth management software for organisations including **7IM** (£27 billion AUM), **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
 - Led frontend engineering across at least **15** product teams
 - Mentored **8** frontend engineers over the years, and established engineering standards across the organisation
 - Played a key technical leadership role during **two successful company acquisitions**
 - Worked with senior leadership to define frontend strategy and long-term technical direction
 - Supported pre-sales activities, technical demonstrations and enterprise customer engagements
 - Introduced AI-assisted engineering workflows using GitHub Copilot, custom instruction files and code-generation techniques, improving developer productivity
-- Built an entire engineering ecosystem:
-	- ICX → application platform
-	- Low-code framework → rapid application development
-	- Component library → reusable UI
-	- Visual regression testing platform → quality
-	- Markdown documentation platform → developer experience
-	- JSON manifest system → metadata-driven architecture
-	- AI instruction files → AI-assisted development
-	- Build tooling → automation
-	- Code generation → productivity
-	- Accessibility framework → compliance
-	- Theme engine → branding
+- Built an integrated frontend engineering ecosystem around ICX including:
+	- Low-code application framework
+	- Reusable component library
+	- Metadata-driven architecture
+	- Visual regression testing platform
+	- Living documentation platform
+	- Accessibility framework
+	- Build tooling and code generation
 
 ### ICX — Creator & Chief Architect
 
+**Internal Frontend Developer Platform**
+
 Designed and built **ICX**, a proprietary low-code frontend platform that fundamentally changed how enterprise applications are developed within the organisation.
 
-Rather than building each application independently, ICX provides a configurable platform where complete enterprise systems can be assembled using metadata while retaining the flexibility for bespoke development when required.
+**Rather than building each application independently, ICX enables complete enterprise applications to be assembled from metadata while retaining the flexibility for bespoke development where required.**
 
 Today the platform underpins **14** enterprise applications and has become the foundation for frontend development across the business.
 
 **Key capabilities include**: Dynamic forms • Dashboard framework • Workflow engine • Validation engine • Theme engine • Responsive layouts • Reusable UI component library (**35+**) • Plugin architecture • Developer tooling • Build automation
 
-### Developer Experience Platform
+### Living Documentation Platform
 
-Designed and developed a developer experience platform to accompany ICX, ensuring engineering documentation remained accurate, discoverable and automatically synchronised with the framework.
-
-Rather than maintaining documentation manually, every UI component exposes a JSON manifest describing its API, configuration options and metadata. A custom Markdown-based documentation engine consumes these manifests to generate a complete interactive documentation website.
+Designed and built a living documentation platform that automatically generates developer documentation directly from component metadata, conceptually similar to Storybook, but documentation, live examples and automated tests are generated directly from framework metadata, ensuring documentation can never drift away from the implementation.
 
 **Features include:** Automatic API documentation from component manifests • Embedded code examples • Markdown-authored guides and tutorials • Version-controlled documentation • Zero duplication between implementation and documentation • Feature usage tracking (during test runs) and reporting directly in the documentation
 
-The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library.  I also pointed our test tooling at the live examples, ensuring every UI component and all of its configurable variants are regularly tested, checking for visual, functional or accessibility regressions.
+The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library. The documentation platform also serves as the foundation for automated testing, allowing every component, configuration variant and example to be continuously validated for visual, functional and accessibility regressions.
+
+By treating documentation as metadata rather than static content, engineers always work from documentation that reflects the current implementation.
 
 You can access the ICX documentation [here](https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html)
 
 ### Automated Testing
 
-Created a visual regression testing platform built on Cypress that automatically generates interactive application maps, feature usage statistics and validates the complete frontend using screenshot comparison and accessibility audits.
+Created a visual regression platform that tests application routes, generates interactive site maps, records feature usage and performs visual and accessibility regression testing across the entire application.
 
 Reduced regression testing effort while increasing confidence in releases.
 
@@ -104,11 +101,11 @@ Reduced regression testing effort while increasing confidence in releases.
 
 ### Accessibility
 
-Defined engineering standards and development processes that embedded WCAG and ARIA compliance throughout the software development lifecycle.
+Defined accessibility standards, reusable components and development processes that embedded WCAG and ARIA compliance throughout the software development lifecycle, making accessible development the default rather than an afterthought.
 
 ### Performance
 
-Continuously improved application performance through modern frontend architecture, reusable components, benchmarking and engineering best practices.
+Introduced benchmarking, used profiling and bundle size analysis to ensure applications remained responsive as the platform evolved and ensuring only essential JavaScript reached production.
 
 ---
 
@@ -157,4 +154,6 @@ Graduated **top of the class**.
 
 ## Interests
 
-Mountain biking • Road cycling • Skiing • Frontend architecture • AI-assisted software development • Developer tooling
+Outside work I enjoy mountain biking, road cycling and skiing, and regularly build personal software projects to explore new technologies. My latest project, StravaDH, combines mapping, GPX processing and frontend engineering to solve a real-world problem for downhill mountain bikers.
+
+I live in Bath with my wife, two children and our dog, Bobby.
