@@ -19,8 +19,8 @@ Technical leader through two successful company acquisitions.
 - 20+ years specialising in frontend engineering
 - Technical leader through two successful company acquisitions
 - Creator and architect of **ICX**, a proprietary low-code frontend platform
-- Frontend engineering lead for enterprise software used by Aegon, Canada Life and Nucleus
-- Led multiple engineering teams with up to **10** developers as well as multiple BAs and Testers
+- Frontend engineering lead for enterprise software used by 7IM, Aegon, Canada Life and Nucleus
+- Led multiple engineering teams with up to **10** developers alongside a PM, BAs and Testers
 - Built products supporting enterprise clients with ~**£400 billion** AUM combined
 - Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
 - Champion of AI-assisted software development, engineering automation and developer experience
@@ -29,17 +29,17 @@ Technical leader through two successful company acquisitions.
 
 # Core Skills
 
-| Leadership | Engineering | Frontend |
-| --- | --- | --- |
-| Frontend Architecture | Design Systems | JavaScript |
-| Technical Strategy | Component Libraries | HTML5 |
-| Engineering Leadership | Low-code Platforms | CSS3 / LESS |
-| Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte |
-| Hiring & Technical Interviews | CI/CD | Web Components |
-| Stakeholder Management | Automated Testing | Cypress |
-| Product Strategy | Git | Responsive Design |
-| Agile Delivery | Azure DevOps | Accessibility |
-| Technical Roadmaps | AI-assisted Development | Performance |
+| Leadership | Engineering | Frontend | UX |
+| --- | --- | --- | -- |
+| Frontend Architecture | Design Systems | JavaScript | Design |
+| Technical Strategy | Component Libraries | HTML5 | Animation |
+| Engineering Leadership | Low-code Platforms | CSS3 / LESS | Information Architecture |
+| Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Prototyping |
+| Hiring & Technical Interviews | CI/CD | Web Components | Wireframing |
+| Stakeholder Management | Automated Testing | Cypress | Video Editing |
+| Product Strategy | API Design / Data Structures | Responsive Design | Interaction design | Microinteractions |
+| Agile Delivery | Git / Azure DevOps | Cross Browser | Accessibility |
+| Technical Roadmaps | AI-assisted Development | Performance | Analytics |
 
 ---
 
@@ -54,7 +54,7 @@ Provides technical leadership for frontend engineering across the company's flag
 
 ### Key Achievements
 
-- Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver enterprise wealth management software for organisations including **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
+- Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver award winning, enterprise wealth management software for organisations including **7IM** (£27 billion AUM), **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
 - Built an engineering platform that dramatically improved developer experience, including reusable component libraries, automated tooling and a live documentation system for the entire frontend framework
 - Led frontend engineering across at least **15** product teams
 - Mentored **7** frontend engineers over the years, and established engineering standards across the organisation
