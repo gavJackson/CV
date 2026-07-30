@@ -142,9 +142,7 @@ Designed and developed an online GPX processing [tool](https://www.digital-mojo.
 
 ## GuessWho DT Edition
 
-Built a browser-based version of Guess Who during a one-day internal hackathon using existing avatars of Dunstan Thomas employees.
-
-You can play with it [here](https://jolly-pond-0d271dd03.3.azurestaticapps.net/)
+Built a browser-based version of Guess Who during a one-day internal hackathon using existing avatars of Dunstan Thomas employees. You can play it [here](https://jolly-pond-0d271dd03.3.azurestaticapps.net/)
 
 ---
 
