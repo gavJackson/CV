@@ -1,94 +1,216 @@
-# Gavin Jackson, Bath, UK
+# Gavin Jackson
 
-https://www.digital-mojo.com/ • gav_jackson@yahoo.com • 07587 426 936
+Bath, United Kingdom
 
-I truly believe that the frontend, the thing that users interact with, makes or breaks a digital product.  Solid, robust and performant frontends show that you are trust worthy and established. Shonky, janky, slow frontends will harm your brand.  Frontends can elevate your users' experience beyond your competitors, they should be beautiful but they can also delight through attention to detail, consistency and cool micro interactions.  
+- Email: gav_jackson@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/gavin-jackson-68a7a615/
+- GitHub: https://github.com/gavJackson
+- Website: https://www.digital-mojo.com/
 
-## Profile
+---
 
+# Staff / Principal Frontend Engineer
 
-- I am a Frontend specialist with over 20 years of professional experience.  
-- I have been involved in two multi-million pound company exits, both centred around the products I built.  
-- Most of my career has been spent in senior, tech lead or head positions where I lead the frontend development of multiple cross-functional, distributed agile teams.  
-- I have spent the last 10 years working in FinTech where I have written my own low-code frontend framework "Integro CX", which has been used to deliver multiple enterprise level wealth management platforms.  
-- Before that I spent 6 years working in Advertising creating web experiences for some of the biggest brands in the world.  
-- I have a keen eye for design, and I understand how to deliver robust, accessible, performant and delightful user experiences, writing high quality code, whilst being able to understand and influence the business requirements and wider strategy and architecture.
+Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Has production experience with React, and on a smaller scale with Svelte and Vue. I bridge the gap between product strategy and engineering execution—focusing on monorepos, micro-frontends, core web vitals, and mentoring engineering teams to ship rapidly without accruing technical debt.
 
+Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
 
-## Work experience
+Technical leader through two successful company acquisitions.
 
-**Dunstan Thomas** *(1% shareholder in 2nd company exit)*
+---
 
-**Group Head of Frontend Engineering**, Permanent, Remote, Oct 2018 - Current
+# Career Highlights
 
-Dunstan Thomas are a FinTech software house and this is my current position where I continue to add features to my low-code frontend framework for creating Single Page Applications consisting of Dashboards and Forms. I also build tools to improve the developer experience, hire, mentor and manage a team of Frontend developers with the goal of building a community with resilience.  I encourage innovation and lead by example, supporting our backend developers, working alongside our business analysts and am involved in the sales pipeline and company strategy.  
+- 20+ years specialising in frontend engineering
+- Technical leader through two successful company acquisitions
+- Creator and architect of **ICX**, a proprietary low-code frontend platform
+- Frontend engineering lead for enterprise software used by Aegon, Canada Life and Nucleus
+- Led multiple engineering teams with up to **10** developers
+- Built products supporting enterprise clients with ~**£400 billion** AUM combined
+- Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
+- Champion of AI-assisted software development, engineering automation and developer experience
 
-I became a shareholder in Dunstan Thomas, holding a 1% stake when in 2020 we sold Dunstan Thomas to Curtis Banks, this was my second multi-million pound company exit.
+---
 
-**Digital Keystone** *(5% shareholder in 1st company exit)*
+# Core Skills
 
-- **Head of Frontend development**, Permanent, Remote, May 2015 - Oct 2018
-- **Lead Frontend developer**, Contract, Remote, Apr 2012 - May 2015
-- **Flex developer**, Contract, Bath, Mar 2011 - Apr 2012
+| Leadership | Engineering | Frontend |
+| --- | --- | --- |
+| Frontend Architecture | Design Systems | JavaScript |
+| Technical Strategy | Component Libraries | HTML5 |
+| Engineering Leadership | Low-code Platforms | CSS3 / LESS |
+| Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte |
+| Hiring & Technical Interviews | CI/CD | Web Components |
+| Stakeholder Management | Automated Testing | Cypress |
+| Product Strategy | Git | Responsive Design |
+| Agile Delivery | Azure DevOps | Accessibility |
+| Technical Roadmaps | AI-assisted Development | Performance |
 
-In 2015, I was offered a 5% stake in Digital Keystone, a FinTech software house, and the permanent position of Head of Frontend Development where I focused on productising my low code frontend framework which was a successful strategic move to create value for the company, as in 2018 we sold Digital Keystone to Dunstan Thomas in my first multi-million pound company exit.
+---
 
-In 2012 I was promoted to Lead Frontend developer where I started designing and building my frontend framework, which was used to deliver enterprise level client projects, mainly in financial services. My framework also won the Platforum 'Best in show' award.  
+# Professional Experience
 
-I began my fintech journey in 2011 when I joined Digital Keystone as a contract Flex Developer to build and maintain wealth management applications for Novia Financial and Aegon, whilst working onsite in Bath.
+## Digital Keystone / Dunstan Thomas
 
+### Group Head of Frontend Engineering
+*2011 – Present*
 
-**Flash developer, GDS International**, Contract, Bristol, Feb 2011 - Mar 2011
+Provides technical leadership for frontend engineering across the company's flagship wealth management platform, defining architecture, engineering standards and long-term technical strategy.
 
-This was a short term contract to build a Flex video player where I was brought in to save the project. I did this by rewriting the code base and introduced a second by second profile of the video to work out, even after scrubbing, when to insert adverts into the stream, very similar to how YouTube works today, but over 10 years ago!
+### Key Achievements
 
-**Flex developer, Estee Lauder**, Contract, Remote, Jul 2010 - Dec 2010
+- Conceived, architected and built **ICX**, a proprietary low-code frontend platform used to deliver enterprise wealth management software for organisations including **Aegon** (£240 billion AUM), **Canada Life UK** (£39 billion AUM) and **Nucleus** (£100 billion AUM)
+- Built an engineering platform that dramatically improved developer experience, including reusable component libraries, automated tooling and a live documentation system for the entire frontend framework
+- Led frontend engineering across **~15~** product teams
+- Mentored **7** frontend engineers over the years, and established engineering standards across the organisation
+- Played a key technical leadership role during **two successful company acquisitions**
+- Worked with senior leadership to define frontend strategy and long-term technical direction
+- Supported pre-sales activities, technical demonstrations and enterprise customer engagements
+- Introduced AI-assisted engineering workflows using GitHub Copilot, custom instruction files and code-generation techniques, improving developer productivity
 
-An ex-colleague was running a project that ran into problems and I was brought in to save the project where we built a Flex website for the Jo Malone brand of Estee Lauder. One of my favourite parts of the project was creating a fruit machine style gift box generator where Jo Malone products were seemingly picked at random to build a gift box at a certain value, I had a lot of fun with blurred spinning animations and writing the algorithm to pick the products. 
+### Frontend Engineering Platform
 
-**Technical lead, Oakwood DC**, Contract, Bristol , May 2010 - Jul 2010 & Feb 2010 - Apr 2010 & Feb 2009 - Aug 2009
+I have built an entire engineering ecosystem:
 
-I left the digital agency Oakwood DC as a permanent employee and continued on as a contractor where I headed up a team of 8 Flash Developers to deliver a £300k project for the electronics division of Mattel US.  We delivered the project on time and on budget.
+- ICX → application platform
+- Low-code framework → rapid application development
+- Component library → reusable UI
+- Visual regression testing platform → quality
+- Markdown documentation platform → developer experience
+- JSON manifest system → metadata-driven architecture
+- AI instruction files → AI-assisted development
+- Build tooling → automation
+- Code generation → productivity
+- Accessibility framework → compliance
+- Theme engine → branding
+- Dashboard framework → product capability
 
-I re-joined Oakwood DC several times for short term contracts to help out on various Flash projects.
+#### **ICX — Creator & Chief Architect**
 
-**Flash developer, Enable Interactive**, Contract, Bristol, Apr 2010 - May 2010 & Dec 2009 - Jan 2010
+Designed and built **ICX**, a proprietary low-code frontend platform that fundamentally changed how enterprise applications are developed within the organisation.
 
-I worked at the digital agency Enable Interactive as a contractor on two occasions, the main project I worked on was for DrinkAware and it combined my Flash website with a huge interactive billboard in Covent Garden.
+Rather than building each application independently, ICX provides a configurable platform where complete enterprise systems can be assembled using metadata while retaining the flexibility for bespoke development when required.
 
-**Flash developer, Bay Leino**, Contract, Remote, Aug 2009 - Oct 2009
+Today the platform underpins **14** enterprise applications and has become the foundation for frontend development across the business.
 
-At the digital agency Bray Leino I worked on a point of sale Flash application for Intel that was used on shop floor laptops.
+Key capabilities include:
 
-**Senior Flash developer, Oakwood DC**, Permanent, Bristol, Feb 2007 - Feb 2009
+- Dynamic forms
+- Dashboard framework
+- Workflow engine
+- Validation engine
+- Theme engine
+- Responsive layouts
+- Reusable UI component library (**35+ components**)
+- Plugin architecture
+- Developer tooling
+- Build automation
 
-As Senior Flash Developer at the digital agency Oakwood DC, I worked on a number of Flash projects for globally recognised brands such as Barbie, Hotwheels, Disney's Cars, Scrabble and The Simpsons. I also trained and mentored junior Flash developers.
+#### Developer Experience Platform
 
-**Web developer, Publicis Mojo**, Contract, Melbourne, Jan 2006 - May 2006
+Designed and developed a developer experience platform to accompany ICX, ensuring engineering documentation remained accurate, discoverable and automatically synchronised with the framework.
 
-I worked in Australia for the digital agency Publicis Mojo as a Web Developer for clients such as Nike, Hertz, HP and the Victorian Government.  A highlight was working on the Nike Football website for World Cup 2006.
+Rather than maintaining documentation manually, every UI component exposes a JSON manifest describing its API, configuration options and metadata. A custom Markdown-based documentation engine consumes these manifests to generate a complete interactive documentation website.
 
-**Web developer, Sol-Tec**, Permanent, Reading, Apr 2003 - Apr 2005
+Features include:
 
-**Web developer, Strudwick & Young**, Permanent, Reading, Jul 2002 - Feb 2003
+- Automatic API documentation from component manifests
+- Live interactive component playgrounds
+- Automatically generated configuration reference
+- Embedded code examples
+- Markdown-authored guides and tutorials
+- Version-controlled documentation
+- Zero duplication between implementation and documentation
 
-**Web designer, ACS**, Contract, Remote,
-Sep 2001 - May 2002
+The platform became the primary reference for frontend engineers, significantly improving discoverability, onboarding and adoption of the shared component library.  I also pointed our test tooling at the live examples, ensuring every UI component and all of its configurable variants are regularly tested, checking for visual, functional or accessibility regressions.
 
-**Web designer, ACS**, Permanent, High Wycombe,
-May 2000 - Jul 2001
+You can access the ICX documentation here: https://proud-glacier-058ef0310.1.azurestaticapps.net/documentation.html
 
-## Education
+---
 
-**1998 - 2002: De Montfort University Leicester**
+#### Automated Testing
 
-Multimedia Computing: 1st BSc (Hons) - Graduated top of my class
+Created a visual regression testing platform built on Cypress.io that automatically generates interactive application maps and validates the complete frontend using screenshot comparison.
 
-**1997-1998: Amersham & Wycombe College**
+Reduced regression testing effort while increasing confidence in releases.
 
-A-levels: Computing (A), Maths (D), Physics (D)
+Here is an example site map and prototype site: https://lemon-smoke-09bc63e0f.2.azurestaticapps.net/
 
-**1992-1997: Holmer Green Upper School**
+---
 
-GCSE: 9 x grade C or above
+#### Frontend Architecture
 
+Designed scalable micro-frontend architecture supporting multiple enterprise products while improving consistency, maintainability and long-term evolution.
+
+---
+
+#### Developer Experience
+
+Built engineering tooling, reusable libraries and development workflows that significantly reduced feature delivery time while improving consistency across engineering teams.
+
+---
+
+#### Accessibility
+
+Defined engineering standards and development processes that embedded WCAG compliance throughout the software development lifecycle.
+
+---
+
+#### Performance
+
+Continuously improved application performance through modern frontend architecture, reusable components and engineering best practices.
+
+---
+
+# Earlier Career — Agency & Consultancy
+
+Before specialising in enterprise FinTech, delivered digital products for agencies and consultancies across the UK and Australia, working with brands including Nike, Intel, Disney, Mattel, HP, Jo Malone, Estée Lauder and the Victorian Government.
+
+| Company | Type | Location | Dates |
+| --- | --- | --- | --- |
+| GDS International | Contract | Bristol | Feb 2011 – Mar 2011 |
+| Estée Lauder | Contract | Remote | Jul 2010 – Dec 2010 |
+| Oakwood DC | Contract | Bristol | 2009 – 2010 |
+| Enable Interactive | Contract | Bristol | 2009 – 2010 |
+| Bray Leino | Contract | Remote | 2009 |
+| Oakwood DC | Permanent | Bristol | 2007 – 2009 |
+| Publicis Mojo | Contract | Melbourne | 2006 |
+| Sol-Tec | Permanent | Reading | 2003 – 2005 |
+| Strudwick & Young | Permanent | Reading | 2002 – 2003 |
+| ACS | Contract | High Wycombe | 2000 – 2002 |
+
+---
+
+# Open Source & Personal Projects
+
+## StravaDH
+
+Designed and developed a GPX processing tool that automatically detects uplift-assisted downhill mountain bike sessions and removes uplift sections before upload to Strava.
+
+Growing side project demonstrating modern frontend engineering, mapping technologies and product development.
+
+Here it is: https://www.digital-mojo.com/strava-dh
+
+---
+
+## GuessWho DT Edition
+
+Built a browser-based version of Guess Who during a one-day internal hackathon using AI-generated avatars of Dunstan Thomas employees.
+
+You can play with it here: https://jolly-pond-0d271dd03.3.azurestaticapps.net/
+
+---
+
+# Education
+
+## De Montfort University
+
+**BSc (Hons) Multimedia Computing — First Class**
+
+Graduated **top of the class**.
+
+---
+
+## Interests
+
+Mountain biking • Skiing • Frontend architecture • AI-assisted software development • Developer tooling
