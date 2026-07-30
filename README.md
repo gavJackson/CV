@@ -8,7 +8,7 @@ Bath, United Kingdom • gav_jackson@yahoo.com • [LinkedIn](https://www.linked
 
 Technical leader through two successful company acquisitions.
 
-Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Extensive experience with React, and some with Svelte and Vue. Archtects monorepo, micro-frontends while mentoring engineering teams to ship rapidly without building technical debt.
+Frontend engineering leader with 20+ years experience designing scalable web applications, engineering platforms and frontend architecture. Extensive experience with React, and some with Svelte and Vue. Builds monorepo, micro-frontends while mentoring engineering teams to ship rapidly, meeting requirements without building technical debt.
 
 Specialises in creating reusable engineering systems that enable teams to deliver complex software faster. Extensive experience defining frontend strategy, leading engineering teams, improving developer experience through tooling and automation, and delivering enterprise software used by major UK financial institutions.
 
