@@ -28,8 +28,8 @@ Specialises in creating reusable engineering systems that enable teams to delive
 
 | Leadership | Engineering | Frontend | UX |
 | --- | --- | --- | -- |
-| Frontend Architecture | Design Systems | JavaScript | Design |
-| Technical Strategy | Component Libraries | HTML5 | Animation |
+| Frontend Architecture | Design Systems | JavaScript | Design & Animation |
+| Technical Strategy | Component Libraries | HTML5 | White Labelling |
 | Engineering Leadership | Low-code Platforms | CSS3 / LESS | Information Architecture |
 | Team Leadership & Mentoring | Developer Experience | React / Vue / Svelte | Wireframing & Prototyping |
 | Hiring & Technical Interviews | CI/CD | Web Components | Understanding & Estimating Requirements |
