@@ -18,7 +18,7 @@ Specialises in creating reusable engineering systems that enable teams to delive
 # Career Highlights
 
 - Creator and architect of **ICX**, a proprietary low-code frontend platform along with an entire engineering ecosystem
-- Led multiple engineering teams with up to **10** developers alongside a PM, BAs and Testers delivering enterprise wealth management platforms used by 7IM, Aegon, Canada Life and Nucleus with more than **£400 billion** AUM combined
+- Led engineering teams of up to **10** developers alongside a PM, BAs and Testers delivering enterprise wealth management platforms for clients like 7IM, Aegon, Canada Life and Nucleus who have more than **£400 billion** combined AUM
 - Delivered digital products for Nike, Disney, Intel, HP, Mattel and Estée Lauder
 - Champion of AI-assisted software development, engineering automation and developer experience
 
