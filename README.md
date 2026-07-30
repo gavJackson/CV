@@ -1,8 +1,6 @@
 # Gavin Jackson
 
-Bath, United Kingdom
-
-gav_jackson@yahoo.com • [LinkedIn](https://www.linkedin.com/in/gavin-jackson-68a7a615/) • [GitHub](https://github.com/gavJackson) • [Website](https://www.digital-mojo.com/)
+Bath, United Kingdom • gav_jackson@yahoo.com • [LinkedIn](https://www.linkedin.com/in/gavin-jackson-68a7a615/) • [GitHub](https://github.com/gavJackson) • [Website](https://www.digital-mojo.com/)
 
 ---
 
